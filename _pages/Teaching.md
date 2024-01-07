@@ -9,7 +9,8 @@ author_profile: true
 
 
 
-- *Introduction to Internet of Things*, Department of Electrical and Computer Engineering, University of Macau, 2022.
+- *Advanced Topics in Internet of Things*, Department of Electrical and Computer Engineering, University of Macau, 2023/2024-2ed Semester.
+- *Introduction to Internet of Things*, Department of Electrical and Computer Engineering, University of Macau, 2022/2023-2ed Semester; 2023/2024-1st Semester.
 - *Power System Operation and Control* (Teaching Assistant of Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
 
 
