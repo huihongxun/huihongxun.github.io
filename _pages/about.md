@@ -34,6 +34,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
+- **[2023-12-16]**  We got the Best Paper Award of the 7th IEEE Conference on Energy Internet and Energy System Integration (EI2), Dec. 2023. Congratulations! 
 - **[2023-10-20]**  Dr. Sheng Wang, an excellent Postdoc in our group, got his new position at University College Dublin in Republic of Ireland. He will be the Senior Power System Researcher in Next Generation Energy System (NexSys) team with Prof. Andrew Keane. Cheers! 
 - **[2023-10-01]**  Two master students, Xiaotian Liu and Kecheng He, in Electrical and Computer Engineering at University of Macau, join our research group. Cheers! 
 - **[2023-09-10]**  Two master students, Jiabao Li and Daixu Xie, in Electrical and Computer Engineering at University of Macau, join our research group. Cheers! 

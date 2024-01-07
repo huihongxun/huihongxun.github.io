@@ -7,21 +7,20 @@ author_profile: true
 
 
 
-- Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network (2023-2026), *Supported by Science and Technology Development Fund, Macao, China*, Project No. 0117/2022/A3, Budget 1,294,500.00, Principal Investigator (PI).
-- Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), *Supported by Science and Technology Development Fund, Macao, China*, Co-Principal Investigator (Co-PI).
-- Regulation Technologies of Large-scale Demand-side Resources in Urban Power Systems Considering High-penetration Renewable Energies (2022-2023),  *Supported by Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University)* (No. MPSS2022-10), Principal Investigator (PI).
-- Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (2018–2019), *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025), Principal Investigator (PI). 
-- Friendly Interactive Smart Grid Between Supply-Side and Demand-Side (2016–2020), *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901100).
-- Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power (2016–2019), *Supported by National Natural Science Foundation of China* (No. 51577167). 
-- Control Method and Peak-shaving Capacity Evaluation of Flexible Loads (2016–2017), *Supported by State Grid Zhejiang Electric Power Company* (No. 5211JY15001S). 
-- Research and Application of Demand Response (2016–2017), *Supported by State Grid Jiangsu Electric Power Company* (No. KH20161699). 
-- Modeling and Regulation Potential Evaluation of Air Conditioners, EVs, and Batteries (2015–2016), *Supported by China Electric Power Research Institute* (No. DZ71-15-004). 
+- Data Valuation and Secure High-efficiency Communication for the Regulation of Large-scale Flexible Resources in Digital Power Systems (2024.01-2026.12), *Supported by Natural Science Foundation of Guangdong Province of China*, Project No. 2414050004006, Principal Investigator (PI). 面向数字电网规模化灵活资源调控的数据价值量化与安全高效传输, 广东省自然科学基金-面上项目, 项目负责人
+- Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network (2023-2026), *Supported by Science and Technology Development Fund, Macao, China*, Project No. 0117/2022/A3, Principal Investigator (PI). 电力-通信深度耦合网络下灵活资源调控关键技术研究, 澳门科学技术发展基金, 项目负责人
+- Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), *Supported by Science and Technology Development Fund, Macao, China*, Co-Principal Investigator (Co-PI). 智慧城市虚拟电厂灵活互动关键技术研究及应用, 澳门科学技术发展基金, 项目联合负责人
+- Regulation Technologies of Large-scale Demand-side Resources in Urban Power Systems Considering High-penetration Renewable Energies (2022-2023),  *Supported by Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University)* (No. MPSS2022-10), Principal Investigator (PI). 含高比例新能源的城市电网海量需求侧资源调控技术研究, 现代电力系统仿真控制与绿色电能新技术教育部重点实验室, 项目负责人
+- Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (2018–2019), *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025), Principal Investigator (PI). 含高渗透率新能源电力系统中灵活负荷的协同控制与市场机制研究, 浙江大学博士研究生新星计划（自然科学类）, 项目负责人
+- Friendly Interactive Smart Grid Between Supply-Side and Demand-Side (2016–2020), *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901100). 城区用户与电网供需友好互动系统, 国家重点研发计划, 国家科技部
 
 ------
 
 
 # **Part-time Academic Members**
 
+- Associate Editor, Jan. 2024 - Dec. 2025, *[Protection and Control of Modern Power Systems](http://www.pcmp.info/pcmp/ch/index.aspx)*.
+- Associate Editor, Jan. 2024 - Dec. 2025, [*Engineering Reports*](https://onlinelibrary.wiley.com/journal/25778196).
 - Young Editorial Board Member, Oct. 1, 2022 - Oct. 1, 2024, *[Applied Energy](https://www.journals.elsevier.com/applied-energy)*.
 - Young Editorial Board Member, Jul. 1, 2022 - Jun. 30, 2024, *[Engineering Reports](https://onlinelibrary.wiley.com/journal/25778196)*. [News](https://mp.weixin.qq.com/s/_w874Yys0uEbGtTd5kBrjg)
 - Guest Editor, *Engineering Reports*, [Optimal operation and control of smart energy systems](https://onlinelibrary.wiley.com/toc/25778196/2023/5/10).

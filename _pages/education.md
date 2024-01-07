@@ -74,6 +74,7 @@ author_profile: true
 
 **Academic Honors:**
 
+- Best Paper Award of the 7th IEEE Conference on Energy Internet and Energy System Integration (EI2), Dec. 2023.
 - Highly Cited Review Paper Award, by the Journal *Applied Energy*, Aug. 2022.
 - Excellent Paper Award of the Integrated Smart Energy Conference (2022综合智慧能源大会优秀论文), Jul. 2022.
 - Winning Prize, the 1st China Postdoctoral Innovation & Entrepreneurship Competition (第一届全国博士后创新创业大赛优胜奖), Jan. 2022.
