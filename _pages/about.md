@@ -34,6 +34,8 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
+- **[2024-01-26]**  New publication: Liya Ma, Hongxun Hui, Sheng Wang and Yonghua Song, "Coordinated optimization of power-communication coupling networks for dispatching large-scale flexible loads to provide operating reserve," *Applied Energy*, vol. 359, p. 122705, Apr. 2024.
+- **[2024-01-16]**  New publication: Yingcong Sun, Hongxun Hui, Taoyi Qi and Laijun Chen, “Multi-Time Scale Optimization of Urban Micro-Grids Considering High-Penetration of PVs and Heterogeneous Energy Storage Systems,” *IEEE Internet of Things Journal*, Early Access, 2024.
 - **[2023-12-16]**  We got the Best Paper Award of the 7th IEEE Conference on Energy Internet and Energy System Integration (EI2), Dec. 2023. Congratulations! 
 - **[2023-10-20]**  Dr. Sheng Wang, an excellent Postdoc in our group, got his new position at University College Dublin in Republic of Ireland. He will be the Senior Power System Researcher in Next Generation Energy System (NexSys) team with Prof. Andrew Keane. Cheers! 
 - **[2023-10-01]**  Two master students, Xiaotian Liu and Kecheng He, in Electrical and Computer Engineering at University of Macau, join our research group. Cheers! 
