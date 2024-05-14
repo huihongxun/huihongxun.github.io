@@ -7,7 +7,8 @@ author_profile: true
 
 
 
-- Data Valuation and Secure High-efficiency Communication for the Regulation of Large-scale Flexible Resources in Digital Power Systems (2024.01-2026.12), *Supported by Natural Science Foundation of Guangdong Province of China*, Project No. 2414050004006, Principal Investigator (PI). 面向数字电网规模化灵活资源调控的数据价值量化与安全高效传输, 广东省自然科学基金-面上项目, 项目负责人
+- Data Valuation and Secure High-efficiency Communication for the Regulation of Large-scale Flexible Resources in Digital Power Systems (2024-2026), *Supported by Natural Science Foundation of Guangdong Province of China*, Project No. 2414050004006, Principal Investigator (PI). 面向数字电网规模化灵活资源调控的数据价值量化与安全高效传输, 广东省自然科学基金-面上项目, 项目负责人
+- Research on the Regulation Technology of Massive Demand Side Resources in Urban Power Grids with High Proportion of Renewable Energy (2023-2025), *Supported by University of Macau*, Project No. SRG2023-00063-IOTSC, Principal Investigator (PI). 含高比例新能源的城市电网海量需求侧资源调控技术研究, 澳门大学, 项目负责人
 - Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network (2023-2026), *Supported by Science and Technology Development Fund, Macao, China*, Project No. 0117/2022/A3, Principal Investigator (PI). 电力-通信深度耦合网络下灵活资源调控关键技术研究, 澳门科学技术发展基金, 项目负责人
 - Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), *Supported by Science and Technology Development Fund, Macao, China*, Co-Principal Investigator (Co-PI). 智慧城市虚拟电厂灵活互动关键技术研究及应用, 澳门科学技术发展基金, 项目联合负责人
 - Regulation Technologies of Large-scale Demand-side Resources in Urban Power Systems Considering High-penetration Renewable Energies (2022-2023),  *Supported by Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University)* (No. MPSS2022-10), Principal Investigator (PI). 含高比例新能源的城市电网海量需求侧资源调控技术研究, 现代电力系统仿真控制与绿色电能新技术教育部重点实验室, 项目负责人
