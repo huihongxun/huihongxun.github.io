@@ -34,6 +34,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
+- **[2024-05-20]**  Zifei Wang, Lunshu Chen, Kexin Wang, Daixu Xie, Zifeng Zhang, Fung Chit Hong, and Weirong Chen successfully defended their master thesis. Cheers! 
 - **[2024-02-06]**  Hongxun Hui got the Excellent Peer Reviewer Award from the CSEE Journal of Power and Energy Systems.
 - **[2024-01-26]**  New publication: Liya Ma, Hongxun Hui, Sheng Wang and Yonghua Song, "Coordinated optimization of power-communication coupling networks for dispatching large-scale flexible loads to provide operating reserve," *Applied Energy*, vol. 359, p. 122705, Apr. 2024.
 - **[2024-01-16]**  New publication: Yingcong Sun, Hongxun Hui, Taoyi Qi and Laijun Chen, “Multi-Time Scale Optimization of Urban Micro-Grids Considering High-Penetration of PVs and Heterogeneous Energy Storage Systems,” *IEEE Internet of Things Journal*, Early Access, 2024.
