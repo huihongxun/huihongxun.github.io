@@ -12,7 +12,7 @@ author_profile: true
 - Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network (2023-2026), *Supported by Science and Technology Development Fund, Macao, China*, Project No. 0117/2022/A3, Principal Investigator (**PI**). 电力-通信深度耦合网络下灵活资源调控关键技术研究, 澳门科学技术发展基金, 主持
 - Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), *Supported by Science and Technology Development Fund, Macao, China*, Co-Principal Investigator (**Co-PI**). 智慧城市虚拟电厂灵活互动关键技术研究及应用, 澳门科学技术发展基金, 联合主持
 - Regulation Technologies of Large-scale Demand-side Resources in Urban Power Systems Considering High-penetration Renewable Energies (2022-2023),  *Supported by Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University)* (No. MPSS2022-10), Principal Investigator (**PI**). 含高比例新能源的城市电网海量需求侧资源调控技术研究, 现代电力系统仿真控制与绿色电能新技术教育部重点实验室, 主持
-- Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (2018–2019), *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025), Principal Investigator (**PI**). 含高渗透率新能源电力系统中灵活负荷的协同控制与市场机制研究, 浙江大学博士研究生新星计划(自然科学类), 主持
+- Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (2018–2019), *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025), Principal Investigator (**PI**). 含高渗透率新能源电力系统中灵活负荷的协同控制与市场机制研究, 浙江大学博士研究生学术新星培养计划(自然科学类), 主持
 - Friendly Interactive Smart Grid Between Supply-Side and Demand-Side (2016–2020), *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901100). 城区用户与电网供需友好互动系统, 国家重点研发计划, 国家科技部, 参与
 
 ------
