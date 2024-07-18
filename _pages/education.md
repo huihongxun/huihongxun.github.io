@@ -1,9 +1,35 @@
 ---
 layout: archive
-title: "Education"
+title: "Experience"
 permalink: /education/index.html
 author_profile: true
 ---
+
+
+
+**University of Macau (11/2023-Present)**
+
+- Assistant Professor, State Key Laboratory of Internet of Things for Smart City [[link](https://skliotsc.um.edu.mo/)]
+
+**University of Macau (10/2022-11/2023)**
+
+- Research Assistant Professor, State Key Laboratory of Internet of Things for Smart City [[link](https://skliotsc.um.edu.mo/)]
+
+**University of Macau (10/2020-10/2022)**
+
+- Postdoctoral Fellow, State Key Laboratory of Internet of Things for Smart City [[link](https://skliotsc.um.edu.mo/)]
+
+**Zhuhai UM Science & Technology Research Institute (08/2020-10/2020)**
+
+- Researcher, Smart City Research Center [[link](http://www.zumri.cn/)]
+
+
+
+
+
+------
+
+## Education
 
 **Zhejiang University (09/2015-06/2020)** 
 
@@ -21,7 +47,7 @@ author_profile: true
 
 ------
 
-# Visiting Experiences
+# Visiting Experience
 
 **Virginia Tech (10/2018-10/2019)**
 
@@ -50,27 +76,7 @@ author_profile: true
 
 ------
 
-# Working Experiences
-
-**University of Macau (10/2022-Present)**
-
-- Research Assistant Professor, State Key Laboratory of Internet of Things for Smart City [[link](https://skliotsc.um.edu.mo/)]
-
-**University of Macau (10/2020-10/2022)**
-
-- Postdoctoral Fellow, State Key Laboratory of Internet of Things for Smart City [[link](https://skliotsc.um.edu.mo/)]
-
-**Zhuhai UM Science & Technology Research Institute (08/2020-10/2020)**
-
-- Researcher, Smart City Research Center [[link](http://www.zumri.cn/)]
-
-
-
-
-
-------
-
-# Honors and Rewards
+# Honors
 
 **Academic Honors:**
 
