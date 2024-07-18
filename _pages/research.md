@@ -38,7 +38,7 @@ author_profile: true
 
 ------
 
-## Alumni of our group
+# Alumni of our group
 
 
 | **Alumni**                                     | **Name**                            |  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Brief introduction**                   |
@@ -55,9 +55,9 @@ author_profile: true
 
 ------
 
-## Supervision Students’ Honors (指导学生获奖情况)
+# Supervision Students’ Honors (指导学生获奖情况)
 
-| **Time** | **Award**                                                    | **Student Name**                                             |
+| **Time** | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Award** | **Student Name**                                             |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2024     | 2024 FST MSc Graduate Dean’s Honors List Award - The Best of  Department of Electrical and Computer Engineering **(澳门大学科技学院硕士研究生院长荣誉榜，电机及电脑工程系最优秀硕士研究生奖[2024年度唯一获奖者])** | Lunshu Chen                                                  |
 | 2024     | 2024 FST MSc Graduate Dean’s Honors List Award **(澳门大学科技学院硕士研究生院长荣誉榜)** | Kexin Wang                                                   |
