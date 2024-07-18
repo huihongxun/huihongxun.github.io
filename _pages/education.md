@@ -29,7 +29,7 @@ author_profile: true
 
 ------
 
-## Education
+# Education
 
 **Zhejiang University (09/2015-06/2020)** 
 
