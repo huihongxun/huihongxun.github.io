@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Experience"
-permalink: /education/index.html
+permalink: /experience/index.html
 author_profile: true
 ---
 
