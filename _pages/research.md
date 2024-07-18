@@ -13,15 +13,21 @@ author_profile: true
 | **Postdoctoral Fellow**                                     | **Name**                            |  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Brief introduction**                   |
 | :-----------------------------------: | :-----------------------------------: | :----------------------------------------------------------- |
 | ![Editing](/group/photo-QiYuting.png){:height="150px" width="150px"} | Yuting QI <br>(2023.05)             | Dr. Yuting Qi is a post-doctoral fellow with the Zhuhai UM Research & Technology Research Institute, University of Macau. She received her Ph.D. degree from Delft University of Technology in 2021, and received her Master degree and Bachelor degree in Management Science and Engineering at Chongqing Jiaotong University. Her research interest is the low-carbon buildings considering Internet of Things. |
+|  | Lingxiang YAO (2024.07) |  |
+|  | Shaohua YANG (2024.07) |  |
 | **PhD students**                                             | **Name**                            |  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Brief introduction**                                  |
 | ![Editing](/group/photo-MaLiya.jpg){:height="150px" width="150px"} | Liya MA (2022.08)                   | Liya Ma received both the Master degree and Bachelor degree in Electrical Engineering at North China Electric Power University in 2019 and 2022, respectively. Now, she is a PhD in Electrical and Computer Engineering at University of Macau. Her research focuses on the coordinated optimization of power-communication coupling networks for dispatching large-scale flexible resources. |
 | ![Editing](/group/photo-ZhangZhenwei.jpg){:height="150px" width="150px"} | Zhenwei  ZHANG (2023.01)            | Zhenwei Zhang received the Master degree in Electrical Engineering at Shandong University in 2022. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the optimization technologies of urban integrated energy systems considering multiple factors, including distributed resources, flexible loads, and micro-climate. |
 | ![Editing](/group/photo-LiuRuiwen.png){:height="150px" width="150px"} | Ruiwen LIU (2023.01)                | Ruiwen Liu received the Bachelor degree in Electrical Engineering at Huazhong University of Science and Technology in 2022. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the data valuation and distributed control of  massive flexible loads considering complex communication conditions. |
 | ![Editing](/group/photo-QiTaoyi.png){:height="150px" width="150px"} | Taoyi QI (2023.08)                  | Taoyi Qi received both the Master degree and Bachelor degree in Electrical Engineering at Zhejiang University in 2020 and 2023, respectively. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the digital twin modeling, optimization and control technologies of distributed networks, commercial buildings, and flexible loads. |
 | ![Editing](/group/photo-JiangSiyu.png){:height="150px" width="150px"} | Siyu JIANG (2023.08)                | Siyu Jiang received both the Master degree and Bachelor degree in School of New Energy at North China Electric Power University, in 2020 and 2023, respectively. Now, she is a PhD in Electrical and Computer Engineering at University of Macau. Her research focuses on the sensing-communication-computing-control integrated technologies for dispatching large-scale flexible resources. |
-| ![Editing](/group/photo-FengJian.png){:height="150px" width="150px"} | Jian Feng (2023.08) | Jian Feng received the Bachelor degree in Inorganic Non-metallic Materials Engineering at Nanjing Tech University in 2018, and the Master degree in Computer Technology at Shenzhen University in 2023. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the power and communication resource optimization. |
-| **Master students**                                          | **Name**                            |  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Brief introduction**           |
+| ![Editing](/group/photo-FengJian.png){:height="150px" width="150px"} | Jian FENG (2023.08) | Jian Feng received the Bachelor degree in Inorganic Non-metallic Materials Engineering at Nanjing Tech University in 2018, and the Master degree in Computer Technology at Shenzhen University in 2023. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the power and communication resource optimization. |
+|  | Gengrui CHEN (2024.08) |  |
+|  | Kang WANG (2024.08) |  |
+|  | Yitang LI (2024.08) |  |
+|  | Mingli CHEN (2024.08) |  |
 | ![Editing](/group/photo-ChenLunshu.jpg){:height="150px" width="150px"} | Lunshu CHEN (2022.08)               | Lunshu Chen received both the Bachelor degree in Electrical and Computer Engineering at Guangdong Polytechnic Normal University in 2022. Now, he is a Master student in Electrical and Computer Engineering at University of Macau. His research focuses on the distributed control and hardware-in-the-loop technologies for dispatching large-scale flexible resources. |
+| **Master students**                                          | **Name**                            |  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Brief introduction**           |
 | ![Editing](/group/photo-LiuXiaotian.png){:height="150px" width="150px"} | Xiaotian Liu (2023.08) | Xiaotian Liu received the Bachelor degree in Transportation Equipment and Control Engineering at Southwest Jiaotong University in 2023. Now, he is a Master student in Internet of Things at University of Macau. His research focuses on the hardware-in-the-loop technologies for dispatching large-scale flexible resources. |
 | ![Editing](/group/photo-HeKecheng.png){:height="150px" width="150px"} | Kecheng He (2023.08) | Kecheng He received the Bachelor degree in Information Security at Jinan University in 2023. Now, he is a Master student in Internet of Things at University of Macau. His research focuses on the data governance, cryptography and security protection, especially during the process of dispatching large-scale flexible resources. |
 | ![Editing](/group/photo-LiJiahe.png){:height="150px" width="150px"} | Jiahe Li (2023.08) | Jiahe Li received the Bachelor degree in Computer Science at Macau University of Science and Technology in 2023. Now, he is a Master student in Internet of Things at University of Macau. His research focuses on the optimization and control flexible resources. |
@@ -29,6 +35,10 @@ author_profile: true
 | ![Editing](/group/photo-WuTong.jpg){:height="150px" width="150px"} | Tong WU (2021.08)                   | Tong Wu received both the Master degree and Bachelor degree in Electrical and Computer Engineering at University of Macau, in 2021 and 2023, respectively. Now, he joined our group at the Zhuhai UM Research & Technology Research Institute as assistant researcher. His research focuses on the distributed control and hardware-in-the-loop technologies for dispatching large-scale flexible resources. |
 
 
+
+------
+
+## Alumni of our group
 
 
 | **Alumni**                                     | **Name**                            |  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Brief introduction**                   |
@@ -43,7 +53,23 @@ author_profile: true
 
 
 
+------
 
+## Supervision Students’ Honors (指导学生获奖情况)
+
+| **Time** | **Award**                                                    | **Student Name**                                             |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2024     | 2024 FST MSc Graduate Dean’s Honors List Award - The Best of  Department of Electrical and Computer Engineering **(澳门大学科技学院硕士研究生院长荣誉榜，电机及电脑工程系最优秀硕士研究生奖[2024年度唯一获奖者])** | Lunshu Chen                                                  |
+| 2024     | 2024 FST MSc Graduate Dean’s Honors List Award **(澳门大学科技学院硕士研究生院长荣誉榜)** | Kexin Wang                                                   |
+| 2023     | The National First Prize Award at the 18th “Challenge Cup National  College Students” Extracurricular Academic Science and Technology Contest **(第十八届“挑战杯”全国大学生课外学术科技作品竞赛全国一等奖)** | Lunshu Chen, Kexin Wang, Jiayu Zhang, Xiaotian Liu, Jiahe Li, Kecheng He |
+| 2023     | The Outstanding Award in 2023 Guangdong “Zongchuang Cup”  Entrepreneurship and Innovation Competition **(2023年广东“众创杯”创业创新大赛优胜奖)** | Xiaotian Liu, Lunshu Chen                                    |
+| 2023     | The Second Prize Award in 2023 “Winning  in Guangzhou” and the Guangdong Hong Kong Macao Bay  Area Student Entrepreneurship Competition **(2023年第十二届“赢在广州”暨粤港澳大湾区大学生创业大赛第二名)** | Lunshu Chen, Kexin Wang, Xinxin Cheng                        |
+| 2023     | The Third Prize in Macau Award at the 2023 Suzhou (Changshu)  National Innovation and Entrepreneurship Competition **(2023年苏州（常熟）全国创新创业大赛澳门赛区三等奖)** | Lunshu Chen, Kexin Wang, Xinxin Cheng                        |
+| 2023     | The Outstanding Award in Macau at the 2023 Bank of China Trophy One Million  Dollar Macao Regional Entrepreneurship Competition **(2023年中银杯百万奖金澳门区创业比赛澳门赛区优胜奖)** | Lunshu Chen, Kexin Wang, Xinxin Cheng, Jiangge Zhu, Zhaoxi Liu |
+| 2023     | The Excellent Oral Presentation Award at the 2023 8th Asia  Conference on Power and Electrical Engineering (ACPEE 2023) | Tong Wu                                                      |
+| 2023     | The Excellent Oral Presentation Award at the 2023 8th Asia  Conference on Power and Electrical Engineering (ACPEE 2023) | Zifei Wang                                                   |
+| 2023     | First Prize Poster Award for Macao Conference on Smart City  Technologies 2023 **(2023年度唯一一等奖)** | Zhenwei Zhang                                                |
+| 2022     | The Best Oral Presentation Award at the 2022 International  Conference on Frontiers of Energy and Environment Engineering (CFEEE 2022) | Tong Wu                                                      |
 
 
 
