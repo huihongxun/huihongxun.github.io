@@ -16,7 +16,7 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">Early Access</font></p>
-- Taoyi Qi, **Hongxun Hui**\* and Yonghua Song, "Chance Constrained Economic Dispatch of Central Air Conditionings in Large-scale Commercial Buildings Considering Demand Response," Energy and Buildings, Accepted, 2024.
+- Taoyi Qi, **Hongxun Hui**\* and Yonghua Song, "Chance Constrained Economic Dispatch of Central Air Conditionings in Large-scale Commercial Buildings Considering Demand Response," *Energy and Buildings*, Accepted, 2024.
 - Ruiwen Liu, **Hongxun Hui**\*, Xia Chen and Yonghua Song, "Distributed Frequency Control of Heterogeneous Energy Storage Systems Considering Short-term Ability and Long-term Flexibility," *IEEE Transactions on Smart Grid*, Accepted, 2024.
 - Liya Ma, **Hongxun Hui**\* and Yonghua Song, “[Data Valuation-Aware Coordinated Optimization of Power-Communication Coupled Networks Considering Hybrid Ancillary Services](https://ieeexplore.ieee.org/document/10549524),” *IEEE Transactions on Smart Grid*, Early Access, 2024. [[PDF](https://huihongxun.github.io/files/2024_Data_Valuation-Aware_Coordinated_Optimization_of_Power-Communication_Coupled_Networks_Considering_Hybrid_Ancillary_Services.pdf)]
 - Shaohua Yang, Keng-Weng Lao, **Hongxun Hui** and Yulin Chen, "[Secure Distributed Control for Demand Response in Power Systems Against Deception Cyber-Attacks with Arbitrary Patterns](https://ieeexplore.ieee.org/document/10478621)," *IEEE Transactions on Power Systems*, Early Access, 2024. [[PDF](https://huihongxun.github.io/files/2024_Secure_Distributed_Control_for_Demand_Response_in_Power_Systems_Against_Deception_Cyber-Attacks.pdf)]
