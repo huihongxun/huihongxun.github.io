@@ -59,6 +59,8 @@ author_profile: true
 
 | **Time** | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Award** | **Student Name**                                             |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2024     | Merit Prize Poster Award for the 4th Macao International Conference on Smart City Technologies 2024 **(2024年度唯一一等奖)** | Taoyi Qi                                                     |
+| 2024     | First Prize Poster Award for the 4th Macao International Conference on Smart City Technologies 2024 | Lunshu Chen                                                  |
 | 2024     | 2024 FST MSc Graduate Dean’s Honors List Award - The Best of  Department of Electrical and Computer Engineering **(澳门大学科技学院硕士研究生院长荣誉榜，电机及电脑工程系最优秀硕士研究生奖[2024年度唯一获奖者])** | Lunshu Chen                                                  |
 | 2024     | 2024 FST MSc Graduate Dean’s Honors List Award **(澳门大学科技学院硕士研究生院长荣誉榜)** | Kexin Wang                                                   |
 | 2023     | The National First Prize Award at the 18th “Challenge Cup National  College Students” Extracurricular Academic Science and Technology Contest **(第十八届“挑战杯”全国大学生课外学术科技作品竞赛全国一等奖)** | Lunshu Chen, Kexin Wang, Jiayu Zhang, Xiaotian Liu, Jiahe Li, Kecheng He |
@@ -68,7 +70,7 @@ author_profile: true
 | 2023     | The Outstanding Award in Macau at the 2023 Bank of China Trophy One Million  Dollar Macao Regional Entrepreneurship Competition **(2023年中银杯百万奖金澳门区创业比赛澳门赛区优胜奖)** | Lunshu Chen, Kexin Wang, Xinxin Cheng, Jiangge Zhu, Zhaoxi Liu |
 | 2023     | The Excellent Oral Presentation Award at the 2023 8th Asia  Conference on Power and Electrical Engineering (ACPEE 2023) | Tong Wu                                                      |
 | 2023     | The Excellent Oral Presentation Award at the 2023 8th Asia  Conference on Power and Electrical Engineering (ACPEE 2023) | Zifei Wang                                                   |
-| 2023     | First Prize Poster Award for Macao Conference on Smart City  Technologies 2023 **(2023年度唯一一等奖)** | Zhenwei Zhang                                                |
+| 2023     | First Prize Poster Award for the 4th Macao International Conference on Smart City Technologies 2023 **(2023年度唯一一等奖)** | Zhenwei Zhang                                                |
 | 2022     | The Best Oral Presentation Award at the 2022 International  Conference on Frontiers of Energy and Environment Engineering (CFEEE 2022) | Tong Wu                                                      |
 
 
