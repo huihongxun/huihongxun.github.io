@@ -7,6 +7,7 @@ author_profile: true
 
 
 
+- Energy Consumption Characteristics Analysis and Demand Response Capacity Configuration of High-density Building Air Conditioning Loads in the Guangdong-Hong Kong-Macao Greater Bay Area Under High Humidity Heat Microclimate Conditions (2025-2027), *Supported by Natural Science Foundation of China*, Project No. 52407075, Principal Investigator (**PI**). 粤港澳大湾区高密度建筑空调负荷在高湿热微气象下的能耗特性分析与响应容量配置, 国家自然科学基金-青年科学基金项目, 主持
 - Data Valuation and Secure High-efficiency Communication for the Regulation of Large-scale Flexible Resources in Digital Power Systems (2024-2026), *Supported by Natural Science Foundation of Guangdong Province of China*, Project No. 2414050004006, Principal Investigator (**PI**). 面向数字电网规模化灵活资源调控的数据价值量化与安全高效传输, 广东省自然科学基金-面上项目, 主持
 - Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network (2023-2026), *Supported by Science and Technology Development Fund, Macao, China*, Project No. 0117/2022/A3, Principal Investigator (**PI**). 电力-通信深度耦合网络下灵活资源调控关键技术研究, 澳门科学技术发展基金, 主持
 - Research on the Regulation Technology of Massive Demand Side Resources in Urban Power Grids with High Proportion of Renewable Energy (2023-2025), *Supported by University of Macau*, Project No. SRG2023-00063-IOTSC, Principal Investigator (**PI**). 高比例新能源城市电网大规模需求侧资源调节技术研究, 澳门大学, 主持
