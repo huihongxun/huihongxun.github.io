@@ -21,6 +21,14 @@ author_profile: true
 
 # Presentations and Talks
 
+- Interactive Regulation Technologies of High-density Building Loads Participating in Urban Power Grid in Guangdong-Hong Kong-Macao Greater Bay Area, *China Electrotechnical Society Young Professional Webinar*, Online, Aug. 24, 2024.
+- Interactive Regulation Technologies of High-density Building Loads Participating in Urban Power Grid in Guangdong-Hong Kong-Macao Greater Bay Area, *Electric Power Information and Communication Technology Conference*, Beijing, China, Aug. 15, 2024.
+- Control of Demand side Resources for Improving Power System Flexibility, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China, Aug. 12, 2024.
+- Digital Twin and Intelligent Operation of High-load-density Urban Power Grid, *The 12th (2024) Symposium on Civil Engineering Monitoring and Control for Teachers and Students of Cross Strait Universities*, Hangzhou, China, Aug. 8, 2024.
+- Research on the Power Communication Coupling System for the Control of Massive Flexible Resources in Modern Power System, Lanzhou, China, Apr. 15, 2024.
+- Dynamic Dependence of Power & Communication Networks, Macau, China, May 17, 2024.
+- Distributed Control and Hardware-in-the-loop of Flexible Demand-side Resources in VPP, 7th IEEE Conference on Energy Internet and Energy System Integration, Hangzhou, China, Dec. 15, 2023.
+- Control of Demand-side Resources for Improving Power System Flexibility, *IEEE Sustainable Power and Energy Conference*, *iSPEC2023*, Chongqing, China, Nov. 29, 2023.
 - Distributed Control of Large-scale Thermostatically Controlled Loads for Improving Flexibility in Urban Power Systems, *Southeast University*, Nanjing, China, Aug. 15, 2022.
 - Regulation Capacity Evaluation of Large-scale Heterogeneous Residential Air Conditioning Loads, *IEEE Sustainable Power and Energy Conference (iSPEC)*, Nanjing, China, Dec. 23, 2021.
 - Anticipatory Control of Flexible Loads for System Resilience Enhancement Facing Accidental Outages, *International Conference on Power System Technology (POWERCON)*, Haikou, China, Dec. 8, 2021.
