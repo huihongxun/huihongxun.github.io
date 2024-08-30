@@ -80,15 +80,20 @@ author_profile: true
 
 **Academic Honors:**
 
-- Best Paper Award of the 7th IEEE Conference on Energy Internet and Energy System Integration (EI2), Dec. 2023.
+- Excellent Peer Reviewer Award of the *CSEE Journal of Power and Energy Systems*, Feb. 2024.
+- Best Paper Award of the *7th IEEE Conference on Energy Internet and Energy System Integration (EI2)*, Dec. 2023.
+- The First Prize, the *Integrated Smart Energy Conference* (2023综合智慧能源大会优秀论文), Jul. 2023.
 - Highly Cited Review Paper Award, by the Journal *Applied Energy*, Aug. 2022.
-- Excellent Paper Award of the Integrated Smart Energy Conference (2022综合智慧能源大会优秀论文), Jul. 2022.
+- Excellent Paper Award of the *Integrated Smart Energy Conference* (2022综合智慧能源大会优秀论文), Jul. 2022.
+- Silver Medal of the International Exhibition of Inventions Geneva (Invention: A Smart Terminal for Reactive Power V2G towards Voltage Regulation of Power System), Switzerland, Mar. 2022.
+- Silver Medal of the International Exhibition of Inventions Geneva (Invention: A Smart Air Conditioner Controller for Harmonizing Fluctuating Renewable Energies in the Power System), Switzerland, Mar. 2022.
 - Winning Prize, the 1st China Postdoctoral Innovation & Entrepreneurship Competition (第一届全国博士后创新创业大赛优胜奖), Jan. 2022.
 - Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC), Dec. 2021.
 - The only Best Innovation Award, the national competition on artificial intelligence (AI) application in power dispatching (第三届电力调度AI应用大赛唯一创新奖), Oct. 2021.
 - The First Prize, the national competition on artificial intelligence (AI) application in power dispatching (第三届电力调度AI应用大赛一等奖), Oct. 2021.
 - The only Best Innovation Award, the national competition on artificial intelligence (AI) application in power dispatching (第二届电力调度AI应用大赛唯一创新奖), Jan. 2021.
 - The Second Prize, the national competition on artificial intelligence (AI) application in power dispatching (第二届电力调度AI应用大赛二等奖), Jan. 2021.
+- Outstanding Reviewer Award from the *Journal of Modern Power Systems and Clean Energy*, 2019.
 - Wang Guo Song Scholarship, the highest honor at College of Electrical Engineering, Zhejiang University (Four winners among 180 Ph.D. students) (王国松奖学金), 2019.
 - First Batch of the Academic Rising Star Program (Three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University) (浙江大学博士研究生学术新星培养计划), 2018.
 - Fuyang Innovation & Entrepreneurship Competition (杭州市富春硅谷创新创业大赛), 2015.
