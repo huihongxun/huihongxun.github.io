@@ -58,7 +58,7 @@ author_profile: true
 - *IET Energy Systems Integration*
 - *IET Generation, Transmission & Distribution*
 - *IET Renewable Power Generation*
-- *CSEE Journal of Power & Energy Systems*
+- *CSEE Journal of Power & Energy Systems* (Excellent Peer Reviewer Award)
 - *Journal of Modern Power Systems and Clean Energy* (Excellence in Reviewing Award)
 - *Protection and Control of Modern Power Systems*
 - *Renewable and Sustainable Energy Reviews*
