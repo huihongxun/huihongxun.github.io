@@ -93,7 +93,7 @@ author_profile: true
 - The First Prize, the national competition on artificial intelligence (AI) application in power dispatching (第三届电力调度AI应用大赛一等奖), Oct. 2021.
 - The only Best Innovation Award, the national competition on artificial intelligence (AI) application in power dispatching (第二届电力调度AI应用大赛唯一创新奖), Jan. 2021.
 - The Second Prize, the national competition on artificial intelligence (AI) application in power dispatching (第二届电力调度AI应用大赛二等奖), Jan. 2021.
-- Outstanding Reviewer Award from the *Journal of Modern Power Systems and Clean Energy*, 2019.
+- Excellence in Reviewing Award from the *Journal of Modern Power Systems and Clean Energy*, 2019.
 - Wang Guo Song Scholarship, the highest honor at College of Electrical Engineering, Zhejiang University (Four winners among 180 Ph.D. students) (王国松奖学金), 2019.
 - First Batch of the Academic Rising Star Program (Three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University) (浙江大学博士研究生学术新星培养计划), 2018.
 - Fuyang Innovation & Entrepreneurship Competition (杭州市富春硅谷创新创业大赛), 2015.
