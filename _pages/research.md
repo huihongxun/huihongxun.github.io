@@ -59,8 +59,8 @@ author_profile: true
 
 | **Time** | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Award** | **Student Name**                                             |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2024     | Merit Prize Poster Award for the 4th Macao International Conference on Smart City Technologies 2024 **(2024年度唯一一等奖)** | Taoyi Qi                                                     |
-| 2024     | First Prize Poster Award for the 4th Macao International Conference on Smart City Technologies 2024 | Lunshu Chen                                                  |
+| 2024     | 2024 First Prize Poster Award for the 4th Macao International Conference on Smart City Technologies **[2024年度唯一一等奖]** | Taoyi Qi                                                     |
+| 2024     | 2024 Merit Prize Poster Award for the 4th Macao International Conference on Smart City Technologies | Lunshu Chen                                                  |
 | 2024     | 2024 FST MSc Graduate Dean’s Honors List Award - The Best of  Department of Electrical and Computer Engineering **(澳门大学科技学院硕士研究生院长荣誉榜，电机及电脑工程系最优秀硕士研究生奖[2024年度唯一获奖者])** | Lunshu Chen                                                  |
 | 2024     | 2024 FST MSc Graduate Dean’s Honors List Award **(澳门大学科技学院硕士研究生院长荣誉榜)** | Kexin Wang                                                   |
 | 2023     | The National First Prize Award at the 18th “Challenge Cup National  College Students” Extracurricular Academic Science and Technology Contest **(第十八届“挑战杯”全国大学生课外学术科技作品竞赛全国一等奖)** | Lunshu Chen, Kexin Wang, Jiayu Zhang, Xiaotian Liu, Jiahe Li, Kecheng He |
