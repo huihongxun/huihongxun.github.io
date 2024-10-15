@@ -16,6 +16,7 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">Early Access</font></p>
+- Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "Response Capacity Allocation of Air Conditioners for Peak-Valley Regulation Considering Interaction with Surrounding Microclimate," *IEEE Transactions on Smart Grid*, Early Access, 2024.
 - Lunshu Chen and **Hongxun Hui**\*, "Model Predictive Control-based Active/Reactive Power Regulation of Inverter Air Conditioners for Improving Voltage Quality of Distribution Systems," *IEEE Transactions on Industrial Informatics*, Early Access, 2024.
 - Ruiwen Liu, **Hongxun Hui**\*, Xia Chen and Yonghua Song, "[Distributed Frequency Control of Heterogeneous Energy Storage Systems Considering Short-term Ability and Long-term Flexibility](https://ieeexplore.ieee.org/document/10659173)," *IEEE Transactions on Smart Grid*, Early Access, 2024. [[PDF](https://huihongxun.github.io/files/2024_Distributed_Frequency_Control_of_Heterogeneous_Energy_Storage_Systems.pdf)]
 - Liya Ma, **Hongxun Hui**\* and Yonghua Song, “Incentive Mechanism Design for Electricity Data Trading With Data Valuation-Aware Contract," *2024 IEEE Power & Energy Society General Meeting (PESGM)*, 2024, pp. 1-5. [[PDF](https://huihongxun.github.io/files/2024_Incentive_Mechanism_Design_for_Electricity_Data_Trading_With_Data_Valuation_Aware_Contract.pdf)]
