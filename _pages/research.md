@@ -10,7 +10,7 @@ author_profile: true
 **Smart Energy Group in SKL-IoTSC is consist of Prof. Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Minghao Wang, and Hongxun Hui. The following table shows my supervised/co-supervised Postdoctoral Fellows, PhDs, Masters and Research Assistants.**
 
 
-|                         **Engineer**                         |           **Name**           |   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Brief introduction**           |
+|                         **Staff**                         |           **Name**           |   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Brief introduction**           |
 | :-----------------------------------: | :-----------------------------------: | :----------------------------------------------------------- |
 | ![Editing](/group/photo-WuTong.jpg){:height="150px" width="150px"} |      Tong WU (2021.08)       | Tong Wu received both the Master degree and Bachelor degree in Electrical and Computer Engineering at University of Macau, in 2021 and 2023, respectively. Now, he joined our group at the Zhuhai UM Research & Technology Research Institute as assistant researcher. His research focuses on the distributed control and hardware-in-the-loop technologies for dispatching large-scale flexible resources. |
 | **Postdoctoral Fellow**                                     | **Name**                            |  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Brief introduction**                   |
