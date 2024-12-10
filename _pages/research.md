@@ -59,6 +59,9 @@ author_profile: true
 
 | **Time** | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Award** | **Student Name**                                             |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2024     | The Guangdong-Hong Kong-Macao Greater Bay Area (University of Macau) Taihu Scholarship (粤港澳大湾区(澳门大学)太湖奖学金) | Liya Ma                                                      |
+| 2024     | 第二届“丝路”智能量测生态开发大赛 (由中国电工技术学会、中国南方电网主办) | Xiaotian Liu                                                 |
+| **2024** | **<font color='Red'>国家自然科学基金青年学生基础研究项目（博士研究生）[澳门首批]</font>** | **<font color='Red'>Taoyi Qi</font>**                        |
 | 2024     | 2024 First Prize Poster Award for the 4th Macao International Conference on Smart City Technologies **[2024年度唯一一等奖]** | Taoyi Qi                                                     |
 | 2024     | 2024 Merit Prize Poster Award for the 4th Macao International Conference on Smart City Technologies | Lunshu Chen                                                  |
 | 2024     | 2024 FST MSc Graduate Dean’s Honors List Award - The Best of  Department of Electrical and Computer Engineering **(澳门大学科技学院硕士研究生院长荣誉榜，电机及电脑工程系最优秀硕士研究生奖[2024年度唯一获奖者])** | Lunshu Chen                                                  |
