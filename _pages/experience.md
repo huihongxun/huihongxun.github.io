@@ -80,7 +80,11 @@ author_profile: true
 
 **Academic Honors:**
 
-- Excellent Peer Reviewer Award of the *CSEE Journal of Power and Energy Systems*, Feb. 2024.
+- 突出贡献专家, 内蒙古电力技术, 2024.
+- Excellent Reviewer Award of the *Inner Mongolia Electric Power* (内蒙古电力技术), 2024.
+- Excellent Young Editor of *Protection and Control of Modern Power Systems* (电力系统保护与控制), 2024.
+- Excellent Reviewer Award of the *Integrated Intelligent Energy* (综合智慧能源), 2024.
+- Excellent Peer Reviewer Award of the *CSEE Journal of Power and Energy Systems*, Feb. 2023.
 - Best Paper Award of the *7th IEEE Conference on Energy Internet and Energy System Integration (EI2)*, Dec. 2023.
 - The First Prize, the *Integrated Smart Energy Conference* (2023综合智慧能源大会优秀论文), Jul. 2023.
 - Highly Cited Review Paper Award, by the Journal *Applied Energy*, Aug. 2022.
