@@ -25,9 +25,9 @@ author_profile: true
 
 # **Part-time Academic Members**
 
+- Young Editorial Board Member, Nov. 11, 2022 - Present, *[Applied Energy](https://www.journals.elsevier.com/applied-energy)*.
 - Associate Editor, Jan. 2024 - Dec. 2025, *[Protection and Control of Modern Power Systems](http://www.pcmp.info/pcmp/ch/index.aspx)*.
 - Associate Editor, Jan. 2024 - Dec. 2025, [*Engineering Reports*](https://onlinelibrary.wiley.com/journal/25778196).
-- Young Editorial Board Member, Oct. 1, 2022 - Oct. 1, 2024, *[Applied Energy](https://www.journals.elsevier.com/applied-energy)*.
 - Young Editorial Board Member, Jul. 1, 2022 - Jun. 30, 2024, *[Engineering Reports](https://onlinelibrary.wiley.com/journal/25778196)*. [News](https://mp.weixin.qq.com/s/_w874Yys0uEbGtTd5kBrjg)
 - Guest Editor, *Engineering Reports*, [Optimal operation and control of smart energy systems](https://onlinelibrary.wiley.com/toc/25778196/2023/5/10).
 - Guest Editor, *Integrated Intelligent Energy*, [Optimal operation, control and cyber-physical security of integrated energy systems](http://www.hdpower.net/CN/news/news89.shtml).
