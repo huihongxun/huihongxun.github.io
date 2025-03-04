@@ -9,7 +9,11 @@ author_profile: true
 
 Three main research interests in my group:
 
- ![Editing a markdown file for a talk](/images/2019_Book_IntegrationOfAirConditioningAn.png)
+![Editing a markdown file for a talk](/images/interest1.png)
+
+![Editing a markdown file for a talk](/images/interest2.png)
+
+![Editing a markdown file for a talk](/images/interest3.png)
 
 
 
