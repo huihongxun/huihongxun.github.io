@@ -1,11 +1,23 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Research Interests"
 permalink: /professional/
 author_profile: true
 ---
 
 
+
+Three main research interests in my group:
+
+ ![Editing a markdown file for a talk](/images/2019_Book_IntegrationOfAirConditioningAn.png)
+
+
+
+
+
+------
+
+# **Research Projects**
 
 -  Low carbon and high reliability urban power distribution system demonstration project (2024-2029), *Supported by National Energy Administration*, Project No. 2024ZD0800700, Principal Investigator (**PI**). 低碳高可靠城市配电系统示范工程, 智能电网国家科技重大专项, 子课题负责人
 -  Multi edge load resource modeling and collaborative frequency regulation strategy based on lightweight data (2025-2027), *Supported by Natural Science Foundation of Guangdong Province of China*, Project No. xx, Principal Investigator (**PI**). 基于轻量化数据的多元边端负荷资源建模与协同调频策略, 广东省自然科学基金(面上项目), 项目负责人
