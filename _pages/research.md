@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-**Smart Energy Group in SKL-IoTSC is consist of Prof. Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Minghao Wang, and Hongxun Hui. The following table shows my supervised/co-supervised Postdoctoral Fellows, PhDs, Masters and Research Assistants.**
+**Prof. Yonghua Song is the academic leader of Smart Energy Group in SKL-IoTSC. We are supervising/co-supervising the following Postdoctoral Fellows, PhDs, Masters and Research Assistants.**
 
 
 |                         **Staff**                         |           **Name**           |   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Brief introduction**           |
