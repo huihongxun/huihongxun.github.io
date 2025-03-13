@@ -15,10 +15,32 @@ author_profile: true
 
 ## Papers
 
-<p align="right"><font size="5">Early Access</font></p>
+<p align="right"><font size="5">Submitted</font></p>
+
+- Lunshu Chen and **Hongxun Hui**\*, "Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems"
+
+- Shaohua Yang, **Hongxun Hui**\*, Han Wang and Yonghua Song, "Low-altitude economy is coming: How to develop a new-type power system"
+
+- Yitang Li, **Hongxun Hui**\*, Shaohua Yang and Yonghua Song, "Powering the Skies: Evaluating the Potential of Low-Altitude Economy in Urban Cities"
+
+- Siyu Jiang, **Hongxun Hui**\* and Yonghua Song, "Credible Demand Response Capacity Evaluation for Building HVAC Systems Based on Grey-Box Models"
+
+- Taoyi Qi, **Hongxun Hui**\*, Wei Feng and Yonghua Song, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China"
+
+- Taoyi Qi, **Hongxun Hui**\* and Yonghua Song, "Exploring the Feasible Regulation Region of Building HVAC Systems within Hygro-Thermal Comfort"
+
+- Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems"
+
+- Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "Mitigating the vicious cycle between urban heatwaves and building energy systems in Guangdong–Hong Kong–Macao Greater Bay Area"
+
+  <p align="right"><font size="5">Early Access</font></p>
+
 - Xinyi Yang, Tao Chen, Yuanshi Zhang, Ciwei Gao, Xingyu Yan, **Hongxun Hui** and Xiaomeng Ai, "[The Optimal Operation Strategy of an Energy Community Aggregator for Heterogeneous Distributed Flexible Resources](https://ieeexplore.ieee.org/document/10916768)," *IEEE Open Access Journal of Power and Energy*, Early Access, 2025. [[PDF](https://huihongxun.github.io/files/2025_The_Optimal_Operation_Strategy_of_an_Energy_Community_Aggregator_for_Heterogeneous_Distributed_Flexible_Resources.pdf)]
+
 - Yifan Jiang, Qingqing Wu, Wen Chen and **Hongxun Hui**, "[Energy-Aware UAV-Enabled Target Tracking: Online Optimization With Location Constraints](https://ieeexplore.ieee.org/document/10807395)," *IEEE Transactions on Vehicular Technology*, Early Access, 2024. [[PDF](https://huihongxun.github.io/files/2024_Energy-Aware_UAV-Enabled_Target_Tracking_Online_Optimization_With_Location_Constraints.pdf)]
+
 - Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Scheduling HVAC loads to promote renewable generation integration with a learning-based joint chance-constrained approach](https://ieeexplore.ieee.org/abstract/document/10058886)," *CSEE Journal of Power and Energy Systems*, Early Access, Mar. 2023. [[PDF](https://huihongxun.github.io/files/2023_Scheduling_HVAC_loads_to_promote_renewable_generation_integration_with_a_learning-based_joint_chance-constrained_approach.pdf)]
+
 - Shaohua Yang, Keng-Weng Lao, **Hongxun Hui**, Yulin Chen and Ningyi Dai, “[Real-time Harmonic Contribution Evaluation Considering Multiple Dynamic Customers](https://ieeexplore.ieee.org/document/10106190)”, *CSEE Journal of Power and Energy Systems*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Real_time_Harmonic_Contribution_Evaluation_Considering_Multiple_Dynamic_Customers.pdf)]
 
 <p align="right"><font size="5">2025</font></p> 
