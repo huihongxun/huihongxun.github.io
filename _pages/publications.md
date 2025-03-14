@@ -17,9 +17,9 @@ author_profile: true
 
 <p align="right"><font size="5">Submitted</font></p>
 
-- Lunshu Chen and **Hongxun Hui**\*, "Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems"
+- Jiabao Li, **Hongxun Hui**\*, Ye Chen, Tao Chen and Pierluigi Siano, "Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads"
 
-- Shaohua Yang, **Hongxun Hui**\*, Han Wang and Yonghua Song, "Low-altitude economy is coming: How to develop a new-type power system"
+- Lunshu Chen and **Hongxun Hui**\*, "Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems"
 
 - Yitang Li, **Hongxun Hui**\*, Shaohua Yang and Yonghua Song, "Powering the Skies: Evaluating the Potential of Low-Altitude Economy in Urban Cities"
 
@@ -31,9 +31,13 @@ author_profile: true
 
 - Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems"
 
-- Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "Mitigating the vicious cycle between urban heatwaves and building energy systems in Guangdong–Hong Kong–Macao Greater Bay Area"
-
   <p align="right"><font size="5">Early Access</font></p>
+
+- Shaohua Yang, **Hongxun Hui**\*, Han Wang and Yonghua Song, "Low-altitude economy is coming: How to develop a new-type power system," *The Innovation Energy*, 2025.
+
+- Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "Mitigating the vicious cycle between urban heatwaves and building energy systems in Guangdong–Hong Kong–Macao Greater Bay Area," *The Innovation Energy*, 2025.
+
+- Xiaotian Liu, Taoyi Qi and **Hongxun Hui**\*, "Performance Evaluation and Market Clearing Method for Load Aggregator Demand Response towards Precise Regulation," *Power System Protection and Control*. (in Chinese) [[PDF](https://huihongxun.github.io/files/2022_随机源-荷影响下配电网运行不确定性量化理论方法与应用展望_王晗.pdf)] 刘小天,漆淘懿,惠红勋. 面向精准调控的负荷聚合商响应性能评价与市场出清方法[J]. 电力系统保护与控制.
 
 - Xinyi Yang, Tao Chen, Yuanshi Zhang, Ciwei Gao, Xingyu Yan, **Hongxun Hui** and Xiaomeng Ai, "[The Optimal Operation Strategy of an Energy Community Aggregator for Heterogeneous Distributed Flexible Resources](https://ieeexplore.ieee.org/document/10916768)," *IEEE Open Access Journal of Power and Energy*, Early Access, 2025. [[PDF](https://huihongxun.github.io/files/2025_The_Optimal_Operation_Strategy_of_an_Energy_Community_Aggregator_for_Heterogeneous_Distributed_Flexible_Resources.pdf)]
 
