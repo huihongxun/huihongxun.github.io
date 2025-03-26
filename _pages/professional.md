@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-Three main research interests in my group:
+## Three main research interests in my group:
 
 ![Editing a markdown file for a talk](/images/interest1.png)
 
