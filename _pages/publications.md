@@ -17,19 +17,23 @@ author_profile: true
 
 <p align="right"><font size="5">Submitted</font></p>
 
-- Jiabao Li, **Hongxun Hui**\*, Ye Chen, Tao Chen and Pierluigi Siano, "Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads"
+- Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "Microclimate-Interactive Energy Management of Building Clusters: From Urban-Scale Feedback to Terminal-Level Dynamics".
 
-- Lunshu Chen and **Hongxun Hui**\*, "Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems"
+- Jian Feng, **Hongxun Hui**, Shaohua Yang and Fen Hou, "A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation".
 
-- Yitang Li, **Hongxun Hui**\*, Shaohua Yang and Yonghua Song, "Powering the Skies: Evaluating the Potential of Low-Altitude Economy in Urban Cities"
+- Jiabao Li, **Hongxun Hui**\*, Ye Chen, Tao Chen and Pierluigi Siano, "Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads".
 
-- Siyu Jiang, **Hongxun Hui**\* and Yonghua Song, "Credible Demand Response Capacity Evaluation for Building HVAC Systems Based on Grey-Box Models"
+- Lunshu Chen and **Hongxun Hui**\*, "Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems".
 
-- Taoyi Qi, **Hongxun Hui**\*, Wei Feng and Yonghua Song, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China"
+- Yitang Li, **Hongxun Hui**\*, Shaohua Yang and Yonghua Song, "Powering the Skies: Evaluating the Potential of Low-Altitude Economy in Urban Cities".
 
-- Taoyi Qi, **Hongxun Hui**\* and Yonghua Song, "Exploring the Feasible Regulation Region of Building HVAC Systems within Hygro-Thermal Comfort"
+- Siyu Jiang, **Hongxun Hui**\* and Yonghua Song, "Credible Demand Response Capacity Evaluation for Building HVAC Systems Based on Grey-Box Models".
 
-- Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems"
+- Taoyi Qi, **Hongxun Hui**\*, Wei Feng and Yonghua Song, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China".
+
+- Taoyi Qi, **Hongxun Hui**\* and Yonghua Song, "Exploring the Feasible Regulation Region of Building HVAC Systems within Hygro-Thermal Comfort".
+
+- Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems".
 
   <p align="right"><font size="5">Early Access</font></p>
 
