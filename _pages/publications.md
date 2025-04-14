@@ -37,7 +37,7 @@ author_profile: true
 
   <p align="right"><font size="5">Early Access</font></p>
 
-- Shaohua Yang, **Hongxun Hui**\*, Han Wang and Yonghua Song, "Low-altitude economy is coming: How to develop a new-type power system," *The Innovation Energy*, 2025.
+- Shaohua Yang, **Hongxun Hui**\*, Han Wang and Yonghua Song, "[Low-altitude economy is coming: How to develop a new-type power system](https://www.the-innovation.org/article/doi/10.59717/j.xinn-energy.2025.100088)," *The Innovation Energy*, vol. 2, p. 100088, 2025. [[PDF](https://huihongxun.github.io/files/2025_Low-altitude+economy+is+coming_+How+to+develop+new-type+power+system.pdf)]
 
 - Xiaotian Liu, Taoyi Qi and **Hongxun Hui**\*, "Performance Evaluation and Market Clearing Method for Load Aggregator Demand Response towards Precise Regulation," *Power System Protection and Control*. (in Chinese) [[PDF](https://huihongxun.github.io/files/2022_随机源-荷影响下配电网运行不确定性量化理论方法与应用展望_王晗.pdf)] 刘小天,漆淘懿,惠红勋. 面向精准调控的负荷聚合商响应性能评价与市场出清方法[J]. 电力系统保护与控制.
 
