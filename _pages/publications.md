@@ -33,11 +33,11 @@ author_profile: true
 
 - Taoyi Qi, **Hongxun Hui**\*, Wei Feng and Yonghua Song, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China".
 
-- Taoyi Qi, **Hongxun Hui**\* and Yonghua Song, "Exploring the Feasible Regulation Region of Building HVAC Systems within Hygro-Thermal Comfort".
-
 - Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems".
 
   <p align="right"><font size="5">Early Access</font></p>
+
+- Taoyi Qi, **Hongxun Hui**\* and Yonghua Song, "[Exploring the Feasible Regulation Region of Building HVAC Systems Within Hygro-Thermal Comfort](https://ieeexplore.ieee.org/document/11006322)", *IEEE Transactions on Smart Grid*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Exploring_the_Feasible_Regulation_Region_of_Building_HVAC_Systems_Within_Hygro-Thermal_Comfort.pdf)]
 
 - Xiaotian Liu, Taoyi Qi and **Hongxun Hui**\*, "Performance Evaluation and Market Clearing Method for Load Aggregator Demand Response towards Precise Regulation," *Power System Protection and Control*. (in Chinese) [[PDF](https://huihongxun.github.io/files/2022_随机源-荷影响下配电网运行不确定性量化理论方法与应用展望_王晗.pdf)] 刘小天,漆淘懿,惠红勋. 面向精准调控的负荷聚合商响应性能评价与市场出清方法[J]. 电力系统保护与控制.
 
