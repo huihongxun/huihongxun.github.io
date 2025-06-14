@@ -36,6 +36,8 @@ author_profile: true
 - Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems".
 
   <p align="right"><font size="5">Early Access</font></p>
+- Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "[Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems](https://ieeexplore.ieee.org/document/11032171)," *IEEE Transactions on Smart Grid*, Early Access.
+
 - Yujun Lin, Linfang Yan, **Hongxun Hui**, Qiufan Yang, Jianyu Zhou, Yin Chen, Xia Chen and Jinyu Wen, "[Optimal Energy Management for Residential House Aggregators with Uncertain User Behaviors Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11026797)," *IEEE Transactions on Industry Applications*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Optimal_Energy_Management_for_Residential_House_Aggregators_Using_DRLs.pdf)]
 
 - Taoyi Qi, **Hongxun Hui**\* and Yonghua Song, "[Exploring the Feasible Regulation Region of Building HVAC Systems Within Hygro-Thermal Comfort](https://ieeexplore.ieee.org/document/11006322)", *IEEE Transactions on Smart Grid*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Exploring_the_Feasible_Regulation_Region_of_Building_HVAC_Systems_Within_Hygro-Thermal_Comfort.pdf)]
