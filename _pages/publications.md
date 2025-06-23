@@ -29,11 +29,8 @@ author_profile: true
 
 - Yitang Li, **Hongxun Hui**\*, Shaohua Yang and Yonghua Song, "Powering the Skies: Evaluating the Potential of Low-Altitude Economy in Urban Cities".
 
-- Siyu Jiang, **Hongxun Hui**\* and Yonghua Song, "Credible Demand Response Capacity Evaluation for Building HVAC Systems Based on Grey-Box Models".
-
 - Taoyi Qi, **Hongxun Hui**\*, Wei Feng and Yonghua Song, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China".
 
-- Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems".
 
   <p align="right"><font size="5">Early Access</font></p>
 - Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "[Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems](https://ieeexplore.ieee.org/document/11032171)," *IEEE Transactions on Smart Grid*, Early Access.
