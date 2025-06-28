@@ -10,17 +10,17 @@ author_profile: true
 ## Three main research interests in my group:
 
 ![Editing a markdown file for a talk](/images/interest1.png)
-## 张振威、漆淘懿、蒋思宇、陈伦澍、陈志华、周思宜
+**<font color='DodgerBlue'>方向成员：张振威、漆淘懿、蒋思宇、陈伦澍、陈志华、周思宜</font>**
 
 ------
 
 ![Editing a markdown file for a talk](/images/interest2.png)
-## 祁玉婷、姚凌翔、刘瑞文、陈庚睿、陈明丽、王晋君
+**<font color='DodgerBlue'>方向成员：祁玉婷、姚凌翔、刘瑞文、陈庚睿、陈明丽、王晋君</font>** 
 
 ------
 
 ![Editing a markdown file for a talk](/images/interest3.png)
-## 杨少华、马丽雅、封剑、王康、李一堂、陈婷
+**<font color='DodgerBlue'>方向成员：杨少华、马丽雅、封剑、王康、李一堂、陈婷</font>** 
 
 
 
