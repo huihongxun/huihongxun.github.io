@@ -15,12 +15,12 @@ author_profile: true
 ------
 
 ![Editing a markdown file for a talk](/images/interest2.png)
-**<font color='DodgerBlue'>方向成员：祁玉婷（低碳）、姚凌翔（氢）、刘瑞文（氢）、陈庚睿（低碳）、陈明丽（市场）、王康（低碳）</font>** 
+**<font color='DodgerBlue'>方向成员：祁玉婷（低碳）、姚凌翔（氢能）、刘瑞文（氢能）、陈庚睿（低碳）、陈明丽（市场）、王康（低碳）</font>** 
 
 ------
 
 ![Editing a markdown file for a talk](/images/interest3.png)
-**<font color='DodgerBlue'>方向成员：杨少华（安全）、马丽雅（通信）、封剑（通信）、李一堂（低空）、陈婷（卫星）、周思宜（安全）</font>** 
+**<font color='DodgerBlue'>方向成员：杨少华（安全）、马丽雅（通信）、封剑（通信）、李一堂（低空）、陈婷（通信）、周思宜（安全）</font>** 
 
 
 
