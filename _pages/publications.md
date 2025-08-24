@@ -21,7 +21,7 @@ author_profile: true
 
 - Yitang Li, **Hongxun Hui**\* and Shaohua Yang, "Intercity Air Corridors: Planning of Low-Altitude Air Routes Among Core Urban Clusters in China".
 
-- Jiabao Li, **Hongxun Hui**\*, Ye Chen, Tao Chen, Pierluigi Siano and Yonghua Song, "Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads".
+- Jiabao Li, **Hongxun Hui**\*, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads".
 
 - Lunshu Chen, **Hongxun Hui**, Ye Chen, Wei Feng and Yonghua Song "Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems".
 
@@ -30,16 +30,17 @@ author_profile: true
 
 
   <p align="right"><font size="5">Early Access</font></p>
-- Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "[Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems](https://ieeexplore.ieee.org/document/11032171)," *IEEE Transactions on Smart Grid*, Early Access.
+- Jian Feng, **Hongxun Hui**, Shaohua Yang and Fen Hou, "A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation," *IEEE Transactions on Smart Grid*, Early Access.
+
+- Taoyi Qi, **Hongxun Hui**, Wei Feng and Yonghua Song, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China," Carbon Neutrality.
 
 - Yujun Lin, Linfang Yan, **Hongxun Hui**, Qiufan Yang, Jianyu Zhou, Yin Chen, Xia Chen and Jinyu Wen, "[Optimal Energy Management for Residential House Aggregators with Uncertain User Behaviors Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11026797)," *IEEE Transactions on Industry Applications*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Optimal_Energy_Management_for_Residential_House_Aggregators_Using_DRLs.pdf)]
 
 - Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Scheduling HVAC loads to promote renewable generation integration with a learning-based joint chance-constrained approach](https://ieeexplore.ieee.org/abstract/document/10058886)," *CSEE Journal of Power and Energy Systems*, Early Access, Mar. 2023. [[PDF](https://huihongxun.github.io/files/2023_Scheduling_HVAC_loads_to_promote_renewable_generation_integration_with_a_learning-based_joint_chance-constrained_approach.pdf)]
 
 <p align="right"><font size="5">2025</font></p> 
-- Jian Feng, **Hongxun Hui**, Shaohua Yang and Fen Hou, "A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation," *IEEE Transactions on Smart Grid*, Early Access.
+- - Liya Ma, **Hongxun Hui**\*, Peng Liu and Yonghua Song, "[Communication Accessibility Oriented Deployment Strategy of Hybrid IoT Terminals for Dispatching Large-scale Flexible Loads in Power Systems](https://ieeexplore.ieee.org/document/11032171)," *IEEE Transactions on Smart Grid*, vol. 16, no. 5, pp. 3857-3872, Sep. 2025.
 - Nan Wang, Zhenghao Gao, Siyu Jiang, Daixu Xie, Houpeng Hu, Zerui Chen and **Hongxun Hui**\*, "[Multi-Time-Scale Deep Learning Method for Commercial Building Non-Intrusive Load Disaggregation](https://nfdwjs.csg.cn/mobile-gateway-web/zh/manuscriptDetail.html?serialNum=20250514006)," *Southern Power System Technology*, Early Access. 王楠,高正浩,蒋思宇,解戴旭,胡厚鹏,陈泽瑞,惠红勋.基于多时间尺度深度学习的商业建筑非侵入式负荷分解方法[J].南方电网技术,2025,xx(xx):1-10. [[PDF](https://huihongxun.github.io/files/2025_基于多时间尺度深度学习的商业建筑非侵入式负荷分解方法.pdf)]
-- Taoyi Qi, **Hongxun Hui**, Wei Feng and Yonghua Song, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China," Carbon Neutrality.
 - Xiaotian Liu, Taoyi Qi and **Hongxun Hui**\*, "[Performance Evaluation and Market Clearing Method for Load Aggregator Demand Response towards Precise Regulation](https://www.dlbh.net/dlbh/ch/reader/view_abstract.aspx?file_no=20251301&flag=1)," *Power System Protection and Control*, vol. 53, no. 13, pp. 1-10, Jun. 2025. 刘小天,漆淘懿,惠红勋.面向精准调控的负荷聚合商需求响应性能评价与市场出清方法[J].电力系统保护与控制,2025,53(13):1-10. [[PDF](https://huihongxun.github.io/files/2025_面向精准调控的负荷聚合商需求响应性能评价与市场出清方法.pdf)] 
 - Taoyi Qi, **Hongxun Hui**\* and Yonghua Song, "[Exploring the Feasible Regulation Region of Building HVAC Systems Within Hygro-Thermal Comfort](https://ieeexplore.ieee.org/document/11006322)", *IEEE Transactions on Smart Grid*, vol. 16, no. 4, pp. 2926-2939, Jul. 2025. [[PDF](https://huihongxun.github.io/files/2025_Exploring_the_Feasible_Regulation_Region_of_Building_HVAC_Systems_Within_Hygro-Thermal_Comfort.pdf)]
 - Siyu Jiang, **Hongxun Hui**\* and Yonghua Song, "[Credible Demand Response Capacity Evaluation For Building HVAC Systems Based on Grey-Box Models](https://www.sciencedirect.com/science/article/abs/pii/S0306261925008748)," *Applied Energy*, vol. 395, p. 126144, Oct. 2025. [[PDF](https://huihongxun.github.io/files/2025_Credible demand response capacity evaluation for building HVAC systems.pdf)]
