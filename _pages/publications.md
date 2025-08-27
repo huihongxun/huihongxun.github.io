@@ -30,7 +30,7 @@ author_profile: true
 
 
   <p align="right"><font size="5">Early Access</font></p>
-- Jian Feng, **Hongxun Hui**, Shaohua Yang and Fen Hou, "A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation," *IEEE Transactions on Smart Grid*, Early Access.
+- Jian Feng, **Hongxun Hui**, Shaohua Yang and Fen Hou, “[A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation](https://ieeexplore.ieee.org/document/11141483),” *IEEE Transactions on Smart Grid*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_A_Slice_Puncturing_Scheme_of_Energy_Storage_Batteries_for_Grid_Frequency_Regulation.pdf)]
 
 - Taoyi Qi, **Hongxun Hui**, Wei Feng and Yonghua Song, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China," Carbon Neutrality.
 
