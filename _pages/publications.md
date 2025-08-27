@@ -29,7 +29,7 @@ author_profile: true
 
   <p align="right"><font size="5">Early Access</font></p>
   
-- Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency," CSEE. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
+- Zhenwei Zhang, **Hongxun Hui** and Yonghua Song, "Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency," CSEE. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
 
 - Jian Feng, **Hongxun Hui**, Shaohua Yang and Fen Hou, “[A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation](https://ieeexplore.ieee.org/document/11141483),” *IEEE Transactions on Smart Grid*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_A_Slice_Puncturing_Scheme_of_Energy_Storage_Batteries_for_Grid_Frequency_Regulation.pdf)]
 
