@@ -19,11 +19,6 @@ author_profile: true
 
 - Postdoctoral Fellow, State Key Laboratory of Internet of Things for Smart City [[link](https://skliotsc.um.edu.mo/)]
 
-**Zhuhai UM Science & Technology Research Institute (08/2020-10/2020)**
-
-- Researcher, Smart City Research Center [[link](http://www.zumri.cn/)]
-
-
 
 
 
@@ -80,11 +75,14 @@ author_profile: true
 
 **Academic Honors:**
 
-- 突出贡献专家, 内蒙古电力技术, 2024.
-- Excellent Reviewer Award of the *Inner Mongolia Electric Power* (内蒙古电力技术), 2024.
-- Excellent Young Editor of *Protection and Control of Modern Power Systems* (电力系统保护与控制), 2024.
-- Excellent Reviewer Award of the *Integrated Intelligent Energy* (综合智慧能源), 2024.
-- Excellent Peer Reviewer Award of the *CSEE Journal of Power and Energy Systems*, Feb. 2023.
+- Young Elite Scientists Sponsorship Program by CSEE, Chinese Society for Electrical Engineering (中国电机工程学会青年人才托举工程), 2024.
+- The Third Prize of the 2nd Silk Road Intelligent Measurement Ecological Development Competition, China Electrotechnical Society (中国电工技术学会第二届“丝路”智能量测生态开发大赛), 2024.
+- 	Outstanding Contribution Expert of the *Inner Mongolia Electric Power* (内蒙古电力技术突出贡献专家), 2024.
+- Excellent Reviewer Award of the *Inner Mongolia Electric Power* (内蒙古电力技术优秀审稿专家), 2024.
+- Excellent Assistant Editor of *Protection and Control of Modern Power Systems* (电力系统保护与控制优秀助理编辑), 2024.
+- Excellent Young Editor of *Protection and Control of Modern Power Systems* (电力系统保护与控制优秀青年编委), 2024.
+- Excellent Reviewer Award of the *Integrated Intelligent Energy* (综合智慧能源优秀审稿专家), 2024.
+- Excellent Peer Reviewer Award of the *CSEE Journal of Power and Energy Systems*, 2023 and 2024.
 - Best Paper Award of the *7th IEEE Conference on Energy Internet and Energy System Integration (EI2)*, Dec. 2023.
 - The First Prize, the *Integrated Smart Energy Conference* (2023综合智慧能源大会优秀论文), Jul. 2023.
 - Highly Cited Review Paper Award, by the Journal *Applied Energy*, Aug. 2022.
