@@ -16,27 +16,16 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">Submitted</font></p>
-
-- Yitang Li, **Hongxun Hui**\* and Shaohua Yang, "Intercity Air Corridors: Planning of Low-Altitude Air Routes Among Core Urban Clusters in China".
-
-- Jiabao Li, **Hongxun Hui**\*, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads".
-
-- Lunshu Chen, **Hongxun Hui**, Ye Chen, Wei Feng and Yonghua Song "Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems".
-
-- Yitang Li, **Hongxun Hui**\*, Shaohua Yang and Yonghua Song, "Powering the Skies: Evaluating the Potential of Low-Altitude Economy in Urban Cities".
-
+- Yitang Li, **Hongxun Hui**\*, Shaohua Yang, Han Wang and Yunpeng Xiao, "Electrifying Regional Mobility: Planning Intercity Low-Altitude Air Routes for Chinese Cities".
+- Jiabao Li, **Hongxun Hui**, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads".
+- Lunshu Chen, **Hongxun Hui**, Yonghua Song, Ye Chen and Wei Feng "Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems".
 
 
   <p align="right"><font size="5">Early Access</font></p>
-  
-- Zhenwei Zhang, **Hongxun Hui** and Yonghua Song, "Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency," CSEE. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
-
+- Zhenwei Zhang, **Hongxun Hui** and Yonghua Song\*, "Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency," CSEE. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
 - Jian Feng, **Hongxun Hui**, Shaohua Yang and Fen Hou, “[A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation](https://ieeexplore.ieee.org/document/11141483),” *IEEE Transactions on Smart Grid*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_A_Slice_Puncturing_Scheme_of_Energy_Storage_Batteries_for_Grid_Frequency_Regulation.pdf)]
-
-- Taoyi Qi, **Hongxun Hui**, Wei Feng and Yonghua Song, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China," Carbon Neutrality.
-
+- Taoyi Qi, **Hongxun Hui**, Wei Feng and Yonghua Song\*, "Flexible Resource Endowment of Urban Buildings Considering Climate Diversity in China," Carbon Neutrality.
 - Yujun Lin, Linfang Yan, **Hongxun Hui**, Qiufan Yang, Jianyu Zhou, Yin Chen, Xia Chen and Jinyu Wen, "[Optimal Energy Management for Residential House Aggregators with Uncertain User Behaviors Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11026797)," *IEEE Transactions on Industry Applications*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Optimal_Energy_Management_for_Residential_House_Aggregators_Using_DRLs.pdf)]
-
 - Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Scheduling HVAC loads to promote renewable generation integration with a learning-based joint chance-constrained approach](https://ieeexplore.ieee.org/abstract/document/10058886)," *CSEE Journal of Power and Energy Systems*, Early Access, Mar. 2023. [[PDF](https://huihongxun.github.io/files/2023_Scheduling_HVAC_loads_to_promote_renewable_generation_integration_with_a_learning-based_joint_chance-constrained_approach.pdf)]
 
 <p align="right"><font size="5">2025</font></p> 
@@ -59,8 +48,8 @@ author_profile: true
 - Xinyi Yang, Tao Chen, Yuanshi Zhang, Ciwei Gao, Xingyu Yan, **Hongxun Hui** and Xiaomeng Ai, "[The Optimal Operation Strategy of an Energy Community Aggregator for Heterogeneous Distributed Flexible Resources](https://ieeexplore.ieee.org/document/10916768)," *IEEE Open Access Journal of Power and Energy*, vol. 12, pp. 157-170, 2025. [[PDF](https://huihongxun.github.io/files/2025_The_Optimal_Operation_Strategy_of_an_Energy_Community_Aggregator_for_Heterogeneous_Distributed_Flexible_Resources.pdf)]
 
 <p align="right"><font size="5">2024</font></p> 
-- Peng Ren, Lunshu Chen and **Hongxun Hui\***, “[Power-controllable variable refrigerant flow system with flexibility value for demand response](https://www.sciencedirect.com/science/article/pii/S0360544224035989),” *Energy*, vol. 313, p. 133820, Dec. 2024. [[PDF](https://huihongxun.github.io/files/2024_Power-controllable variable refrigerant flow system with flexibility value.pdf)]
 - Yonghua Song, Zhenwei Zhang and **Hongxun Hui**\*, "[Interdisciplinary collaborative perspectives: urban microclimate, urban energy systems, and urban building sectors](https://www.the-innovation.org/article/doi/10.59717/j.xinn-energy.2024.100053)," *The Innovation Energy*, vol. 1, no. 4, p. 100053, Nov. 2024. [[PDF](https://huihongxun.github.io/files/2024_Interdisciplinary+collaborative+perspectives_+urban+microclimate,+urban+energy+systems,+and+urban+building+sectors.pdf)]
+- Peng Ren, Lunshu Chen and **Hongxun Hui\***, “[Power-controllable variable refrigerant flow system with flexibility value for demand response](https://www.sciencedirect.com/science/article/pii/S0360544224035989),” *Energy*, vol. 313, p. 133820, Dec. 2024. [[PDF](https://huihongxun.github.io/files/2024_Power-controllable variable refrigerant flow system with flexibility value.pdf)]
 - **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Yonghua Song and Saifur Rahman, “[Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing](https://ieeexplore.ieee.org/document/10106189),” *CSEE Journal of Power and Energy Systems*, vol. 10, no. 5, pp. 1887-1900, Sep. 2024. [[PDF](https://huihongxun.github.io/files/2024_Coupon-Based_Demand_Response_for_Consumers_Facing_Flat-Rate_Retail_Pricing.pdf)]
 - Ruiwen Liu, **Hongxun Hui**\*, Xia Chen and Yonghua Song, "[Distributed Frequency Control of Heterogeneous Energy Storage Systems Considering Short-term Ability and Long-term Flexibility](https://ieeexplore.ieee.org/document/10659173)," *IEEE Transactions on Smart Grid*, vol. 15, no. 6, pp. 5693-5705, Nov. 2024. [[PDF](https://huihongxun.github.io/files/2024_Distributed_Frequency_Control_of_Heterogeneous_Energy_Storage_Systems.pdf)]
 - Taoyi Qi, **Hongxun Hui**\* and Yonghua Song, "[Chance Constrained Economic Dispatch of Central Air Conditionings in Large-scale Commercial Buildings Considering Demand Response](https://www.sciencedirect.com/science/article/pii/S0378778824007230)," *Energy and Buildings*, vol. 320, p. 114607, Oct. 2024. [[PDF](https://huihongxun.github.io/files/2024_Chance constrained economic dispatch of central air conditionings in large-scale commercial buildings considering DR.pdf)]
