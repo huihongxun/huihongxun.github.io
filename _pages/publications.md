@@ -7,7 +7,8 @@ author_profile: true
 
 ## Books
 
-- Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). *Springer*; 2019. [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
+- Sheng Wang, **Hongxun Hui** Yi Ding and Yonghua Song. [Hydrogen Integration in Energy Systems: Modeling, Optimization, and Reliability Evaluation—Ensuring a Reliable Net Zero Transition](https://link.springer.com/book/10.1007/978-3-032-07167-5). *Springer*; 2025. [[PDF](https://huihongxun.github.io/files/Book_Hydrogen_Integration_in_Energy_Systems.pdf)]
+- Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). *Springer*; 2019. [[PDF](https://huihongxun.github.io/files/Book_Integration_Of_Air_Conditioning.pdf)]
 
 
 
