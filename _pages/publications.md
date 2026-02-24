@@ -7,7 +7,10 @@ author_profile: true
 
 ## Books
 
-- Sheng Wang, **Hongxun Hui** Yi Ding and Yonghua Song. [Hydrogen Integration in Energy Systems: Modeling, Optimization, and Reliability Evaluation—Ensuring a Reliable Net Zero Transition](https://link.springer.com/book/10.1007/978-3-032-07167-5). *Springer*; 2025. [[PDF](https://huihongxun.github.io/files/Book_Hydrogen_Integration_in_Energy_Systems.pdf)]
+- **Hongxun Hui**, Liya Ma, Yi Ding and Yonghua Song. [Planning, Operation, and Security of Communication Networks for Regulating Large-scale Flexible Resources in Modern Power Systems](https://link.springer.com/book/10.1007/978-3-032-09780-4). *Springer*; 2026. [[PDF](https://huihongxun.github.io/files/Book_Planning_Operation_and_Security_of_Communication_Networks.pdf)]
+
+- Sheng Wang, **Hongxun Hui**, Yi Ding and Yonghua Song. [Hydrogen Integration in Energy Systems: Modeling, Optimization, and Reliability Evaluation—Ensuring a Reliable Net Zero Transition](https://link.springer.com/book/10.1007/978-3-032-07167-5). *Springer*; 2025. [[PDF](https://huihongxun.github.io/files/Book_Hydrogen_Integration_in_Energy_Systems.pdf)]
+
 - Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). *Springer*; 2019. [[PDF](https://huihongxun.github.io/files/Book_Integration_Of_Air_Conditioning.pdf)]
 
 
