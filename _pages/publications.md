@@ -17,14 +17,19 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">Submitted</font></p>
-- Lunshu Chen, **Hongxun Hui**, Yonghua Song, Ye Chen and Wei Feng "Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems,” *IEEE Transactions on Power Systems*.
+- Gengrui Chen, **Hongxun Hui**\*, Yi Ding and Yonghua Song, "Low-Carbon Economic Operation of Power System Considering Regulation of Industrial Loads,”submitted. [[PDF](https://huihongxun.github.io/files/2026_Low-Carbon_Economic_Operation_of_Power_System_Considering_Regulation_of_Industrial_Loads.pdf)]
+
 - Yifan Jiang, Qingqing Wu, **Hongxun Hui**, Wen Chen and Derrick Wing Kwan Ng, "Low-Altitude UAV Tracking via Sensing-Assisted Predictive Beamforming," submitted. [[PDF](https://huihongxun.github.io/files/2025_Low-Altitude_UAV_Tracking_via_Sensing-Assisted_Predictive_Beamforming.pdf)]
 
 
   <p align="right"><font size="5">Early Access</font></p>
-- Jiabao Li, **Hongxun Hui**, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "[Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads](https://ieeexplore.ieee.org/abstract/document/11293064),” *Journal of Modern Power Systems and Clean Energy*, Early Access, Dec. 2025. [[PDF](https://huihongxun.github.io/files/2026_Value-Based_Data_Governance_and_Security_Protection_for_VPPs.pdf)]
+- Zhenwei Zhang, **Hongxun Hui**\*, Houpeng Hu and Yonghua Song, "Hierarchical Energy Efficiency Optimization of Urban Building Clusters Under the "Microclimate–Energy Consumption" Vicious Cycle," *Proceedings of the CSEE*, Early Access. 张振威,惠红勋,胡厚鹏,宋永华.面向城市“微气候-能耗”恶性循环的建筑群梯级能效优化方法研究[J].中国电机工程学报,2026,xx(xx):1-12. [[PDF](https://huihongxun.github.io/files/2026_面向城市“微气候-能耗”恶性循环的建筑群梯级能效优化方法研究_张振威.pdf)] 
 
-- Zhenwei Zhang, **Hongxun Hui** and Yonghua Song\*, "Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency," CSEE, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
+- Lunshu Chen, **Hongxun Hui**\*, Yonghua Song, Ye Chen and Wei Feng, "[Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems](https://ieeexplore.ieee.org/document/11397790),” *IEEE Transactions on Power Systems*, Early Access. [[PDF](https://huihongxun.github.io/files/2026_Distributed_Consensus-Based_MPC_of_IACs.pdf)]
+
+- Jiabao Li, **Hongxun Hui**\*, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "[Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads](https://ieeexplore.ieee.org/abstract/document/11293064),” *Journal of Modern Power Systems and Clean Energy*, Early Access, Dec. 2025. [[PDF](https://huihongxun.github.io/files/2026_Value-Based_Data_Governance_and_Security_Protection_for_VPPs.pdf)]
+
+- Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency," CSEE, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
 
 - Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Scheduling HVAC loads to promote renewable generation integration with a learning-based joint chance-constrained approach](https://ieeexplore.ieee.org/abstract/document/10058886)," *CSEE Journal of Power and Energy Systems*, Early Access, Mar. 2023. [[PDF](https://huihongxun.github.io/files/2023_Scheduling_HVAC_loads_to_promote_renewable_generation_integration_with_a_learning-based_joint_chance-constrained_approach.pdf)]
 
