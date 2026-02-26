@@ -75,13 +75,19 @@ author_profile: true
 
 **Academic Honors:**
 
+- *IEEE Transactions on Sustainable Energy* **Best Papers**, 2025. (Comments from the editor: The TSTE Best Paper is the highest honor bestowed by the journal. It recognizes up to 5 papers of the highest quality published across 2024~2025. Your manuscript was chosen after a rigorous five-round review process this year, which underscores how exceptional this achievement is.)
+- 2025年度电力创新奖，二等奖，2025.
+- Excellent Reviewer of *Protection and Control of Modern Power Systems* (《电力系统保护与控制》优秀审稿专家), 2025.
+- CSEE JPES 10th Anniversary Outstanding Reviewer Award (《中国电机工程学会电力与能源系统学报》创刊10周年优秀审稿专家), 2025.
+- Exceptional Reviewer of *IEEE Transactions on Sustainable Energy*, 2025.
+- Outstanding Contribution Expert of the *Southern Power System Technology* (《南方电网技术》优秀审稿专家), 2025.
 - Young Elite Scientists Sponsorship Program by CSEE, Chinese Society for Electrical Engineering (中国电机工程学会青年人才托举工程), 2024.
 - The Third Prize of the 2nd Silk Road Intelligent Measurement Ecological Development Competition, China Electrotechnical Society (中国电工技术学会第二届“丝路”智能量测生态开发大赛), 2024.
-- 	Outstanding Contribution Expert of the *Inner Mongolia Electric Power* (内蒙古电力技术突出贡献专家), 2024.
-- Excellent Reviewer Award of the *Inner Mongolia Electric Power* (内蒙古电力技术优秀审稿专家), 2024.
-- Excellent Assistant Editor of *Protection and Control of Modern Power Systems* (电力系统保护与控制优秀助理编辑), 2024.
-- Excellent Young Editor of *Protection and Control of Modern Power Systems* (电力系统保护与控制优秀青年编委), 2024.
-- Excellent Reviewer Award of the *Integrated Intelligent Energy* (综合智慧能源优秀审稿专家), 2024.
+- 	Outstanding Contribution Expert of the *Inner Mongolia Electric Power* (《内蒙古电力技术》突出贡献专家), 2024.
+- Excellent Reviewer Award of the *Inner Mongolia Electric Power* (《内蒙古电力技术》优秀审稿专家), 2024, 2025.
+- Excellent Assistant Editor of *Protection and Control of Modern Power Systems* (《电力系统保护与控制》优秀助理编辑), 2024.
+- Excellent Young Editor of *Protection and Control of Modern Power Systems* (《电力系统保护与控制》优秀青年编委), 2024, 2025(中文刊+英文刊).
+- Excellent Reviewer Award of the *Integrated Intelligent Energy* (《综合智慧能源》优秀审稿专家), 2024.
 - Excellent Peer Reviewer Award of the *CSEE Journal of Power and Energy Systems*, 2023 and 2024.
 - Best Paper Award of the *7th IEEE Conference on Energy Internet and Energy System Integration (EI2)*, Dec. 2023.
 - The First Prize, the *Integrated Smart Energy Conference* (2023综合智慧能源大会优秀论文), Jul. 2023.
