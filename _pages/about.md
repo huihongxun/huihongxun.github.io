@@ -32,6 +32,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
+- **[2026-01-17]**  We got the **Best Paper Award of the *IEEE Transactions on Sustainable Energy***. (Comments from the editor: The TSTE Best Paper is the highest honor bestowed by the journal. It recognizes up to 5 papers of the highest quality published across 2024~2025. Your manuscript was chosen after a rigorous five-round review process this year, which underscores how exceptional this achievement is.) Cheers! 
 - **[2025-05-20]**  Liqi Cui, Jiahe Li and Kecheng He successfully defended their master thesis. Cheers! 
 - **[2024-08-01]**  Four PhD students, Yitang Li, Gengrui Chen, Kang Wang and Mingli Chen, join our research group. Cheers! 
 - **[2024-05-20]**  Zifei Wang, Lunshu Chen, Kexin Wang, Daixu Xie, Zifeng Zhang, Fung Chit Hong, and Weirong Chen successfully defended their master thesis. Cheers! 
@@ -44,7 +45,7 @@ News
 - **[2023-08-06]**  Three PhD students, Taoyi Qi, Siyu Jiang and Jian Feng, join our research group. Cheers! 
 - **[2023-07-14]**  Wu Tong successfully defended his thesis. He will join our group at the Zhuhai UM Research & Technology Research Institute as assistant researcher. Cheers! 
 - **[2023-05-15]**  Hong Jiatu and Chen Ge successfully defended their PhD dissertation. Cheers! 
-- **[2023-05-02]**  Our Project "Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network" get supported by *Science and Technology Development Fund* (FDCT), Macao, China.
+- **[2023-05-02]**  Our Project "Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network" got supported by *Science and Technology Development Fund* (FDCT), Macao, China.
 - **[2022-12-19]**  Wu Tong (master student) won the **Best Oral Presentation Award** at the 2022 International Conference on Frontiers of Energy and Environment Engineering (CFEEE 2022). Cheers!
 - **[2022-09-08]**  UM, China Southern Power Grid build joint laboratory to promote research and development of carbon-neutral power and energy systems. [News](https://www.um.edu.mo/news-and-press-releases/press-release/detail/54110/)
 -  **[2022-01-17]**  We won the *Best Paper Award* of the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC 2021).  Check the news [here](https://skliotsc.um.edu.mo/um-scholar-wins-best-paper-award-of-the-3rd-ieee-conference-on-sustainable-power-and-energy/). The paper is: H. Hui, P. Yu, H. Zhang, N. Dai, W. Jiang and Y. Song, “Regulation Capacity Evaluation of Large-scale Heterogeneous Residential Air Conditioning Loads,” the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC 2021).  <!--[Editing a markdown file for a talk](/images/2021_iSPEC_BestPaper.png) -->
