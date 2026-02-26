@@ -30,6 +30,7 @@ author_profile: true
 
 # **Research Projects**
 
+-   Planning of the Hydrogen Storage and Transportation System in the Greater Bay Area Driven by Multi-Path Supply–Demand Evolution and Research on International Coordination Mechanisms (2026-2028), *Supported by Science and Technology Development Fund, Macao, China*, Project No.  0050/2025/AIJ, Principal Investigator (**PI**). 多路径供需演化驱动的大湾区氢能储运体系规划与国际协同机制研究, 澳门科学技术发展基金, 项目负责人
 -  Low carbon and high reliability urban power distribution system demonstration project (2024-2029), *Supported by National Energy Administration*, Project No. 2024ZD0800700, Principal Investigator (**PI**). 低碳高可靠城市配电系统示范工程, 智能电网国家科技重大专项, 子课题负责人
 -  Multi edge load resource modeling and collaborative frequency regulation strategy based on lightweight data (2025-2027), *Supported by Natural Science Foundation of Guangdong Province of China*, Project No. 2025A1515011531, Principal Investigator (**PI**). 基于轻量化数据的多元边端负荷资源建模与协同调频策略, 广东省自然科学基金(面上项目), 项目负责人
 -  Dynamic modeling and coordinated control of multi condition green hydrogen ammonia synthesis system for on-site consumption of renewable energy (2024-2025), *Supported by State Key Laboratory of Power System Operation and Control (Tsinghua University)* (No. SKLD24KM11), Principal Investigator (**PI**). 面向可再生能源就地消纳的多工况绿色氢氨合成系统动态建模与协调控制, 新型电力系统运行与控制全国重点实验室开放基金(清华大学), 项目负责人
