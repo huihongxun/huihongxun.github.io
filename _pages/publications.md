@@ -32,7 +32,7 @@ author_profile: true
 
 - Jiabao Li, **Hongxun Hui**\*, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "[Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads](https://ieeexplore.ieee.org/abstract/document/11293064),” *Journal of Modern Power Systems and Clean Energy*, Early Access, Dec. 2025. [[PDF](https://huihongxun.github.io/files/2026_Value-Based_Data_Governance_and_Security_Protection_for_VPPs.pdf)]
 
-- Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency," *CSEE Journal of Power and Energy Systems*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
+- Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "[Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency](https://ieeexplore.ieee.org/abstract/document/11449544)," *CSEE Journal of Power and Energy Systems*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
 
 - Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Scheduling HVAC loads to promote renewable generation integration with a learning-based joint chance-constrained approach](https://ieeexplore.ieee.org/abstract/document/10058886)," *CSEE Journal of Power and Energy Systems*, Early Access, Mar. 2023. [[PDF](https://huihongxun.github.io/files/2023_Scheduling_HVAC_loads_to_promote_renewable_generation_integration_with_a_learning-based_joint_chance-constrained_approach.pdf)]
 
