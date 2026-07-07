@@ -20,9 +20,9 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">Submitted</font></p>
-- Gengrui Chen, **Hongxun Hui**\*, Yi Ding and Yonghua Song, "Low-Carbon Economic Operation of Power System Considering Regulation of Industrial Loads,” submitted. [[PDF](https://huihongxun.github.io/files/2026_Low-Carbon_Economic_Operation_of_Power_System_Considering_Regulation_of_Industrial_Loads.pdf)]
+- Gengrui Chen, **Hongxun Hui**\*, Yi Ding and Yonghua Song, "Low-Carbon Economic Operation of Power System Considering Regulation of Industrial Loads,” *IEEE Transactions on Power Systems*, submitted. [[PDF](https://huihongxun.github.io/files/2026_Low-Carbon_Economic_Operation_of_Power_System_Considering_Regulation_of_Industrial_Loads.pdf)]
 
-- Yifan Jiang, Qingqing Wu, **Hongxun Hui**, Wen Chen and Derrick Wing Kwan Ng, "Low-Altitude UAV Tracking via Sensing-Assisted Predictive Beamforming," submitted. [[PDF](https://huihongxun.github.io/files/2025_Low-Altitude_UAV_Tracking_via_Sensing-Assisted_Predictive_Beamforming.pdf)]
+- Yifan Jiang, Qingqing Wu, **Hongxun Hui**, Wen Chen, Wei Feng and Shanpu Shen, "[Sensing for Reliable UAV Communication: Robust Trajectory and Resource Optimization in Low-Altitude Networks](https://arxiv.org/abs/2606.31447)," submitted.
 
 
   <p align="right"><font size="5">Early Access</font></p>
@@ -30,17 +30,32 @@ author_profile: true
 
 - Lunshu Chen, **Hongxun Hui**\*, Yonghua Song, Ye Chen and Wei Feng, "[Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems](https://ieeexplore.ieee.org/document/11397790),” *IEEE Transactions on Power Systems*, Early Access. [[PDF](https://huihongxun.github.io/files/2026_Distributed_Consensus-Based_MPC_of_IACs.pdf)]
 
-- Jiabao Li, **Hongxun Hui**\*, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "[Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads](https://ieeexplore.ieee.org/abstract/document/11293064),” *Journal of Modern Power Systems and Clean Energy*, Early Access, Dec. 2025. [[PDF](https://huihongxun.github.io/files/2026_Value-Based_Data_Governance_and_Security_Protection_for_VPPs.pdf)]
+- Jiabao Li, **Hongxun Hui**\*, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "[Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads](https://ieeexplore.ieee.org/abstract/document/11293064),” *Journal of Modern Power Systems and Clean Energy*, Early Access. [[PDF](https://huihongxun.github.io/files/2026_Value-Based_Data_Governance_and_Security_Protection_for_VPPs.pdf)]
 
 - Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "[Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency](https://ieeexplore.ieee.org/abstract/document/11449544)," *CSEE Journal of Power and Energy Systems*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
 
-- Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Scheduling HVAC loads to promote renewable generation integration with a learning-based joint chance-constrained approach](https://ieeexplore.ieee.org/abstract/document/10058886)," *CSEE Journal of Power and Energy Systems*, Early Access, Mar. 2023. [[PDF](https://huihongxun.github.io/files/2023_Scheduling_HVAC_loads_to_promote_renewable_generation_integration_with_a_learning-based_joint_chance-constrained_approach.pdf)]
+- Jinyu Yue, Tao Qian, Qinran Hu and **Hongxun Hui**, "[Consumer-Facing Low-Altitude Urban Air Mobility: Energy-Constrained Service Commitment and Trustworthy Access](https://ieeexplore.ieee.org/abstract/document/11574714)," *IEEE Transactions on Consumer Electronics*. [[PDF](https://huihongxun.github.io/files/2026_Consumer-Facing_Low-Altitude_Urban_Air_Mobility_Energy-Constrained_Service_Commitment_and_Trustworthy_Access.pdf)]
+
+- 
 
   <p align="right"><font size="5">2026</font></p> 
 
+- Kang Wang and **Hongxun Hui**\*, "[From Isolation to Collaboration: Data Trading Mechanism in the Era of Large Language Model Democratization](https://spj.science.org/doi/full/10.34133/research.1336)," *Research*, vol. 9, p. 1336, Jun. 2026. [[PDF](https://huihongxun.github.io/files/2026_research.1336.pdf)]
+
+- Jinfeng Li, Run Tang, Siyu Jiang, Yu Yao, Jiahe Li, Yishun Zhu, Ziyan Pan, Guanbin Huang, and **Hongxun Hui**\*, "[Dynamic characterization of power user profiles for low-carbon regulation potential assessment](https://www.sciencedirect.com/science/article/pii/S0142061526003601)," *International Journal of Electrical Power & Energy Systems*, vol. 178, p. 111918, May 2026. [[PDF](https://huihongxun.github.io/files/2026_Dynamic_characterization_of_power_user_profiles.pdf)]
+
 - Jian Feng, **Hongxun Hui**, Shaohua Yang and Fen Hou, “[A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation](https://ieeexplore.ieee.org/document/11141483),” *IEEE Transactions on Smart Grid*, vol. 17, no. 1, pp. 845-857, Jan. 2026. [[PDF](https://huihongxun.github.io/files/2026_A_Slice_Puncturing_Scheme_of_Energy_Storage_Batteries_for_Grid_Frequency_Regulation.pdf)]
 
-- Nan Wang, Zhenghao Gao, Siyu Jiang, Daixu Xie, Houpeng Hu, Zerui Chen and **Hongxun Hui**\*, "[Multi-Time-Scale Deep Learning Method for Commercial Building Non-Intrusive Load Disaggregation](https://nfdwjs.csg.cn/mobile-gateway-web/zh/manuscriptDetail.html?serialNum=20250514006)," *Southern Power System Technology*, vol. 20, no. 6, pp. 134-143, Jun. 2026. **王楠,高正浩,蒋思宇,解戴旭,胡厚鹏,陈泽瑞,惠红勋*.基于多时间尺度深度学习的商业建筑非侵入式负荷分解方法[J].南方电网技术,2026,20(6):134-143.** [[PDF](https://huihongxun.github.io/files/2025_基于多时间尺度深度学习的商业建筑非侵入式负荷分解方法.pdf)] 
+- Nan Wang, Zhenghao Gao, Siyu Jiang, Daixu Xie, Houpeng Hu, Zerui Chen and **Hongxun Hui**\*, "[Multi-Time-Scale Deep Learning Method for Commercial Building Non-Intrusive Load Disaggregation](https://nfdwjs.csg.cn/mobile-gateway-web/zh/manuscriptDetail.html?serialNum=20250514006)," *Southern Power System Technology*, vol. 20, no. 6, pp. 134-143, Jun. 2026. **王楠,高正浩,蒋思宇,解戴旭,胡厚鹏,陈泽瑞,惠红勋*.基于多时间尺度深度学习的商业建筑非侵入式负荷分解方法[J].南方电网技术,2026,20(6):134-143.** [[PDF](https://huihongxun.github.io/files/2025_基于多时间尺度深度学习的商业建筑非侵入式负荷分解方法.pdf)]
+
+- Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Scheduling HVAC Loads to Promote Renewable Generation Integration with Learning-Based Joint Chance-Constrained Approach](https://ieeexplore.ieee.org/abstract/document/10058886)," *CSEE Journal of Power and Energy Systems*, vol. 12, no. 2, pp. 734-748, Mar. 2026. [[PDF](https://huihongxun.github.io/files/2026_Scheduling_HVAC_Loads_with_Learning-Based_Joint_Chance-Constrained_Approach.pdf)]
+
+- Yutong Xiang, Lunshu Chen, Qimuge Wuyun, Sen Yu, Yang Geng, Hao Tang, Zhe Wang, Rui Tang, **Hongxun Hui**, Yuming Zhao, Bo Shen, Borong Lin and Wei Feng, "[A Comprehensive Review of Building-to-Grid Interaction](https://www.the-innovation.org/article/doi/10.59717/ipj.energy-use.2025.100043)," *Energy Use*, vol. 2, no. 1, pp. 100043, Mar. 2026. [[PDF](https://huihongxun.github.io/files/2026_A+Comprehensive+Review+of+Building-to-Grid+Interaction.pdf)]
+
+- Yifan Jiang, Qingqing Wu, **Hongxun Hui**, Wen Chen and Derrick Wing Kwan Ng, "[Low-Altitude UAV Tracking via Sensing-Assisted Predictive Beamforming](https://ieeexplore.ieee.org/abstract/document/11550407)," *IEEE Transactions on Wireless Communications*, vol. 25, pp. 17975-17988, Jun. 2026. [[PDF](https://huihongxun.github.io/files/2026_Low-Altitude_UAV_Tracking_via_Sensing-Assisted_Predictive_Beamforming.pdf)]
+
+- Tao Qian, Jinyu Yue, Chongyu Wang, Jiarong Li, Qinran Hu, Hongxun Hui, "[Urban energy and three-dimensional mobility integration for eVTOL scale-up](https://www.sciencedirect.com/science/article/pii/S0306261926008809)," *Applied Energy*, Vol. 421, p. 128226, Oct. 2026. [[PDF](https://huihongxun.github.io/files/2026_Urban_energy_and_three-dimensional_mobility_integration_for_eVTOL_scale-up.pdf)]
+
 
 <p align="right"><font size="5">2025</font></p> 
 - Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "[Response Capacity Allocation of Air Conditioners for Peak-Valley Regulation Considering Interaction with Surrounding Microclimate](https://ieeexplore.ieee.org/document/10720879)," *IEEE Transactions on Smart Grid*, vol. 16, no. 2, pp. 1155-1167, Mar. 2025. [**<font color='Red'>Highly Cited Paper (Top 1% of the academic field, Essential Science Indicators)</font>**] [[PDF](https://huihongxun.github.io/files/2024_Response_Capacity_Allocation_of_ACs_for_Peak-Valley_Regulation_Considering_Interaction_with_Surrounding_Microclimate.pdf)]
