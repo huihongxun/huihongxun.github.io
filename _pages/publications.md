@@ -36,8 +36,6 @@ author_profile: true
 
 - Jinyu Yue, Tao Qian, Qinran Hu and **Hongxun Hui**, "[Consumer-Facing Low-Altitude Urban Air Mobility: Energy-Constrained Service Commitment and Trustworthy Access](https://ieeexplore.ieee.org/abstract/document/11574714)," *IEEE Transactions on Consumer Electronics*. [[PDF](https://huihongxun.github.io/files/2026_Consumer-Facing_Low-Altitude_Urban_Air_Mobility_Energy-Constrained_Service_Commitment_and_Trustworthy_Access.pdf)]
 
-- 
-
   <p align="right"><font size="5">2026</font></p> 
 
 - Kang Wang and **Hongxun Hui**\*, "[From Isolation to Collaboration: Data Trading Mechanism in the Era of Large Language Model Democratization](https://spj.science.org/doi/full/10.34133/research.1336)," *Research*, vol. 9, p. 1336, Jun. 2026. [[PDF](https://huihongxun.github.io/files/2026_research.1336.pdf)]
@@ -54,7 +52,7 @@ author_profile: true
 
 - Yifan Jiang, Qingqing Wu, **Hongxun Hui**, Wen Chen and Derrick Wing Kwan Ng, "[Low-Altitude UAV Tracking via Sensing-Assisted Predictive Beamforming](https://ieeexplore.ieee.org/abstract/document/11550407)," *IEEE Transactions on Wireless Communications*, vol. 25, pp. 17975-17988, Jun. 2026. [[PDF](https://huihongxun.github.io/files/2026_Low-Altitude_UAV_Tracking_via_Sensing-Assisted_Predictive_Beamforming.pdf)]
 
-- Tao Qian, Jinyu Yue, Chongyu Wang, Jiarong Li, Qinran Hu, Hongxun Hui, "[Urban energy and three-dimensional mobility integration for eVTOL scale-up](https://www.sciencedirect.com/science/article/pii/S0306261926008809)," *Applied Energy*, Vol. 421, p. 128226, Oct. 2026. [[PDF](https://huihongxun.github.io/files/2026_Urban_energy_and_three-dimensional_mobility_integration_for_eVTOL_scale-up.pdf)]
+- Tao Qian, Jinyu Yue, Chongyu Wang, Jiarong Li, Qinran Hu and **Hongxun Hui**, "[Urban energy and three-dimensional mobility integration for eVTOL scale-up](https://www.sciencedirect.com/science/article/pii/S0306261926008809)," *Applied Energy*, Vol. 421, p. 128226, Oct. 2026. [[PDF](https://huihongxun.github.io/files/2026_Urban_energy_and_three-dimensional_mobility_integration_for_eVTOL_scale-up.pdf)]
 
 
 <p align="right"><font size="5">2025</font></p> 
