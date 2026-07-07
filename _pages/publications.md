@@ -36,11 +36,11 @@ author_profile: true
 
 - Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Scheduling HVAC loads to promote renewable generation integration with a learning-based joint chance-constrained approach](https://ieeexplore.ieee.org/abstract/document/10058886)," *CSEE Journal of Power and Energy Systems*, Early Access, Mar. 2023. [[PDF](https://huihongxun.github.io/files/2023_Scheduling_HVAC_loads_to_promote_renewable_generation_integration_with_a_learning-based_joint_chance-constrained_approach.pdf)]
 
-- Nan Wang, Zhenghao Gao, Siyu Jiang, Daixu Xie, Houpeng Hu, Zerui Chen and **Hongxun Hui**\*, "[Multi-Time-Scale Deep Learning Method for Commercial Building Non-Intrusive Load Disaggregation](https://nfdwjs.csg.cn/mobile-gateway-web/zh/manuscriptDetail.html?serialNum=20250514006)," *Southern Power System Technology*, Early Access. **王楠,高正浩,蒋思宇,解戴旭,胡厚鹏,陈泽瑞,惠红勋.基于多时间尺度深度学习的商业建筑非侵入式负荷分解方法[J].南方电网技术,2025,xx(xx):1-10.** [[PDF](https://huihongxun.github.io/files/2025_基于多时间尺度深度学习的商业建筑非侵入式负荷分解方法.pdf)] 
-
   <p align="right"><font size="5">2026</font></p> 
 
 - Jian Feng, **Hongxun Hui**, Shaohua Yang and Fen Hou, “[A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation](https://ieeexplore.ieee.org/document/11141483),” *IEEE Transactions on Smart Grid*, vol. 17, no. 1, pp. 845-857, Jan. 2026. [[PDF](https://huihongxun.github.io/files/2026_A_Slice_Puncturing_Scheme_of_Energy_Storage_Batteries_for_Grid_Frequency_Regulation.pdf)]
+
+- Nan Wang, Zhenghao Gao, Siyu Jiang, Daixu Xie, Houpeng Hu, Zerui Chen and **Hongxun Hui**\*, "[Multi-Time-Scale Deep Learning Method for Commercial Building Non-Intrusive Load Disaggregation](https://nfdwjs.csg.cn/mobile-gateway-web/zh/manuscriptDetail.html?serialNum=20250514006)," *Southern Power System Technology*, vol. 20, no. 6, pp. 134-143, Jun. 2026. **王楠,高正浩,蒋思宇,解戴旭,胡厚鹏,陈泽瑞,惠红勋*.基于多时间尺度深度学习的商业建筑非侵入式负荷分解方法[J].南方电网技术,2026,20(6):134-143.** [[PDF](https://huihongxun.github.io/files/2025_基于多时间尺度深度学习的商业建筑非侵入式负荷分解方法.pdf)] 
 
 <p align="right"><font size="5">2025</font></p> 
 - Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "[Response Capacity Allocation of Air Conditioners for Peak-Valley Regulation Considering Interaction with Surrounding Microclimate](https://ieeexplore.ieee.org/document/10720879)," *IEEE Transactions on Smart Grid*, vol. 16, no. 2, pp. 1155-1167, Mar. 2025. [**<font color='Red'>Highly Cited Paper (Top 1% of the academic field, Essential Science Indicators)</font>**] [[PDF](https://huihongxun.github.io/files/2024_Response_Capacity_Allocation_of_ACs_for_Peak-Valley_Regulation_Considering_Interaction_with_Surrounding_Microclimate.pdf)]
