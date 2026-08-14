@@ -1,0 +1,3 @@
+**Hongxun Hui**, Liya Ma, Yi Ding and Yonghua Song. [Planning, Operation, and Security of Communication Networks for Regulating Large-scale Flexible Resources in Modern Power Systems](https://link.springer.com/book/10.1007/978-3-032-09780-4). *Springer*; 2026. [[PDF](https://huihongxun.github.io/files/Book_Planning_Operation_and_Security_of_Communication_Networks.pdf)]
+
+**Hongxun Hui**, Lunshu Chen, Tong Wu, Jiatu Hong and Yonghua Song. [Control Methods and Hardware-in-the-Loop Technologies of Distributed Resources in Modern Power Systems](https://link.springer.com/book/9789819215645). *Springer*; 2026. [[PDF](https://huihongxun.github.io/files/XX.pdf)]

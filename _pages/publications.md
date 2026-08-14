@@ -7,8 +7,6 @@ author_profile: true
 
 ## Books
 
-- **Hongxun Hui**, Liya Ma, Yi Ding and Yonghua Song. [Planning, Operation, and Security of Communication Networks for Regulating Large-scale Flexible Resources in Modern Power Systems](https://link.springer.com/book/10.1007/978-3-032-09780-4). *Springer*; 2026. [[PDF](https://huihongxun.github.io/files/Book_Planning_Operation_and_Security_of_Communication_Networks.pdf)]
-
 - Sheng Wang, **Hongxun Hui**, Yi Ding and Yonghua Song. [Hydrogen Integration in Energy Systems: Modeling, Optimization, and Reliability Evaluation—Ensuring a Reliable Net Zero Transition](https://link.springer.com/book/10.1007/978-3-032-07167-5). *Springer*; 2025. [[PDF](https://huihongxun.github.io/files/Book_Hydrogen_Integration_in_Energy_Systems.pdf)]
 
 - Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). *Springer*; 2019. [[PDF](https://huihongxun.github.io/files/Book_Integration_Of_Air_Conditioning.pdf)]
@@ -28,15 +26,15 @@ author_profile: true
   <p align="right"><font size="5">Early Access</font></p>
 - Zhenwei Zhang, **Hongxun Hui**\*, Houpeng Hu and Yonghua Song, "Hierarchical Energy Efficiency Optimization of Urban Building Clusters Under the "Microclimate–Energy Consumption" Vicious Cycle," *Proceedings of the CSEE*, Early Access. **张振威,惠红勋,胡厚鹏,宋永华.面向城市“微气候-能耗”恶性循环的建筑群梯级能效优化方法研究[J].中国电机工程学报,2026,xx(xx):1-12.** [[PDF](https://huihongxun.github.io/files/2026_面向城市“微气候-能耗”恶性循环的建筑群梯级能效优化方法研究_张振威.pdf)] 
 
-- Lunshu Chen, **Hongxun Hui**\*, Yonghua Song, Ye Chen and Wei Feng, "[Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems](https://ieeexplore.ieee.org/document/11397790),” *IEEE Transactions on Power Systems*, Early Access. [[PDF](https://huihongxun.github.io/files/2026_Distributed_Consensus-Based_MPC_of_IACs.pdf)]
-
-- Jiabao Li, **Hongxun Hui**\*, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "[Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads](https://ieeexplore.ieee.org/abstract/document/11293064),” *Journal of Modern Power Systems and Clean Energy*, Early Access. [[PDF](https://huihongxun.github.io/files/2026_Value-Based_Data_Governance_and_Security_Protection_for_VPPs.pdf)]
-
 - Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "[Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency](https://ieeexplore.ieee.org/abstract/document/11449544)," *CSEE Journal of Power and Energy Systems*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
 
 - Jinyu Yue, Tao Qian, Qinran Hu and **Hongxun Hui**, "[Consumer-Facing Low-Altitude Urban Air Mobility: Energy-Constrained Service Commitment and Trustworthy Access](https://ieeexplore.ieee.org/abstract/document/11574714)," *IEEE Transactions on Consumer Electronics*. [[PDF](https://huihongxun.github.io/files/2026_Consumer-Facing_Low-Altitude_Urban_Air_Mobility_Energy-Constrained_Service_Commitment_and_Trustworthy_Access.pdf)]
 
   <p align="right"><font size="5">2026</font></p> 
+
+- Lunshu Chen, **Hongxun Hui**\*, Yonghua Song, Ye Chen and Wei Feng, "[Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems](https://ieeexplore.ieee.org/document/11397790),” *IEEE Transactions on Power Systems*, vol. 41, no. 4, pp. 2441-2453, Jul. 2026. [[PDF](https://huihongxun.github.io/files/2026_Distributed_Consensus-Based_MPC_of_IACs.pdf)]
+
+- Jiabao Li, **Hongxun Hui**\*, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "[Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads](https://ieeexplore.ieee.org/abstract/document/11293064),” *Journal of Modern Power Systems and Clean Energy*, vol. 14, no. 4, pp. 1172-1184, Jul. 2026. [[PDF](https://huihongxun.github.io/files/2026_Value-Based_Data_Governance_and_Security_Protection_for_VPPs.pdf)]
 
 - Kang Wang and **Hongxun Hui**\*, "[From Isolation to Collaboration: Data Trading Mechanism in the Era of Large Language Model Democratization](https://spj.science.org/doi/full/10.34133/research.1336)," *Research*, vol. 9, p. 1336, Jun. 2026. [[PDF](https://huihongxun.github.io/files/2026_research.1336.pdf)]
 
