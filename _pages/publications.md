@@ -24,11 +24,19 @@ author_profile: true
 
 
   <p align="right"><font size="5">Early Access</font></p>
-- Zhenwei Zhang, **Hongxun Hui**\*, Houpeng Hu and Yonghua Song, "Hierarchical Energy Efficiency Optimization of Urban Building Clusters Under the "Microclimate–Energy Consumption" Vicious Cycle," *Proceedings of the CSEE*, Early Access. **张振威,惠红勋,胡厚鹏,宋永华.面向城市“微气候-能耗”恶性循环的建筑群梯级能效优化方法研究[J].中国电机工程学报,2026,xx(xx):1-12.** [[PDF](https://huihongxun.github.io/files/2026_面向城市“微气候-能耗”恶性循环的建筑群梯级能效优化方法研究_张振威.pdf)] 
+- Zhenwei Zhang, **Hongxun Hui**\*, Houpeng Hu and Yonghua Song, "Hierarchical Energy Efficiency Optimization of Urban Building Clusters Under the "Microclimate–Energy Consumption" Vicious Cycle," *Proceedings of the CSEE*, Early Access. **张振威,惠红勋,胡厚鹏,宋永华.面向城市“微气候-能耗”恶性循环的建筑群梯级能效优化方法研究[J].中国电机工程学报,2026,xx(xx):1-12.** [[PDF](https://huihongxun.github.io/files/2026_面向城市“微气候-能耗”恶性循环的建筑群梯级能效优化方法研究_张振威.pdf)]
+
+- Lunshu Chen, Shaohua Yang, **Hongxun Hui**\*, Ye Chen and Wei Feng, "Differentiated Modeling and Cooperative Control of AC and DC Air Conditioner Loads for Stable Operation of AC/DC Hybrid Distribution Networks," *Electric Power Automation Equipment*, in press. **陈伦澍,杨少华,惠红勋\*,陈烨,冯威.面向交直流混联配电网稳定运行的交直流空调负荷差异化建模与协同控制[J].电力自动化设备,2026,xx(xx):xx-xx.** [[PDF](https://huihongxun.github.io/files/2026_面向交直流混联配电网稳定运行的交直流空调负荷差异化建模与协同控制.pdf)]
+
+- Nan Wang, Houpeng Hu, Zerui Chen, Zhenwei Zhang and **Hongxun Hui**\*, "Two-Stage Coordinated Optimal Scheduling of Urban Building Clusters Considering Differ-ences in Thermo-Controlled Load Responsiveness," *Electric Power Automation Equipment*, in press. **王楠,胡厚鹏,陈泽瑞,张振威,惠红勋\*.考虑温控负荷响应能力差异的建筑群两阶段协调优化调度[J].电力自动化设备,2026,xx(xx):xx-xx.** [[PDF](https://huihongxun.github.io/files/2026_考虑温控负荷响应能力差异的建筑群两阶段协调优化调度.pdf)]
 
 - Zhenwei Zhang, **Hongxun Hui**\* and Yonghua Song, "[Microclimate-Interactive Energy Management of Building Clusters: Linking Local Meteorology Effect with Terminal Operation Efficiency](https://ieeexplore.ieee.org/abstract/document/11449544)," *CSEE Journal of Power and Energy Systems*, Early Access. [[PDF](https://huihongxun.github.io/files/2025_Microclimate-Interactive_Energy_Management_of_Building_Clusters.pdf)]
 
 - Jinyu Yue, Tao Qian, Qinran Hu and **Hongxun Hui**, "[Consumer-Facing Low-Altitude Urban Air Mobility: Energy-Constrained Service Commitment and Trustworthy Access](https://ieeexplore.ieee.org/abstract/document/11574714)," *IEEE Transactions on Consumer Electronics*. [[PDF](https://huihongxun.github.io/files/2026_Consumer-Facing_Low-Altitude_Urban_Air_Mobility_Energy-Constrained_Service_Commitment_and_Trustworthy_Access.pdf)]
+
+- Sheng Chen, Yu Zhao, **Hongxun Hui**, Huiling Su and Zhinong Wei, "Flexible Aggregated Control of Building Air-Conditioning Loads Based on LLM-PINN," *Proceedings of the CSEE*, Early Access. **陈胜,赵宇,惠红勋,苏慧玲,卫志农.基于LLM-PINN的建筑楼宇空调聚合灵活调控研究[J].中国电机工程学报,2026,xx(xx):1-13.** [[PDF](https://huihongxun.github.io/files/2026_Flexible_Aggregated_Control_of_Building_Air-Conditioning_Loads_Based_on_LLM-PINN.pdf)]
+
+- Han Wang, Zhe Hu, Yunpeng Xiao, Quan Zhou, **Hongxun Hui**, Zheng Yan, Zhiguo Huang, Jize Han and Xu Jin, "[A two-stage restoration model for power distribution systems with integrated satellite-terrestrial communication networks](https://doi.org/10.1016/j.apenergy.2026.128967)," *Applied Energy*, vol. 427, p. 128967, Jan. 2027. [[PDF](https://huihongxun.github.io/files/2027_A_Two-Stage_Restoration_Model_for_Power_Distribution_Systems_with_Integrated_Satellite-Terrestrial_Communication_Networks.pdf)]
 
   <p align="right"><font size="5">2026</font></p> 
 
@@ -39,6 +47,8 @@ author_profile: true
 - Kang Wang and **Hongxun Hui**\*, "[From Isolation to Collaboration: Data Trading Mechanism in the Era of Large Language Model Democratization](https://spj.science.org/doi/full/10.34133/research.1336)," *Research*, vol. 9, p. 1336, Jun. 2026. [[PDF](https://huihongxun.github.io/files/2026_research.1336.pdf)]
 
 - Jinfeng Li, Run Tang, Siyu Jiang, Yu Yao, Jiahe Li, Yishun Zhu, Ziyan Pan, Guanbin Huang, and **Hongxun Hui**\*, "[Dynamic characterization of power user profiles for low-carbon regulation potential assessment](https://www.sciencedirect.com/science/article/pii/S0142061526003601)," *International Journal of Electrical Power & Energy Systems*, vol. 178, p. 111918, May 2026. [[PDF](https://huihongxun.github.io/files/2026_Dynamic_characterization_of_power_user_profiles.pdf)]
+
+- Gengrui Chen, **Hongxun Hui**, Hongjun Gao, Junyong Liu and Yonghua Song, "[Reconfiguring Industrial Users' Production Processes to Support the Low-carbon Transition of Power Systems](https://doi.org/10.12454/j.jsuese.202600478)," *Advanced Engineering Sciences*, vol. 58, no. 5, pp. 138-152, Sep. 2026. **陈庚睿,惠红勋,高红均,刘俊勇,宋永华.重构工业用户生产流程支撑电力系统低碳转型[J].工程科学与技术,2026,58(5):138-152.** [[PDF](https://huihongxun.github.io/files/2026_重构工业用户生产流程支撑电力系统低碳转型.pdf)]
 
 - Jian Feng, **Hongxun Hui**, Shaohua Yang and Fen Hou, “[A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation](https://ieeexplore.ieee.org/document/11141483),” *IEEE Transactions on Smart Grid*, vol. 17, no. 1, pp. 845-857, Jan. 2026. [[PDF](https://huihongxun.github.io/files/2026_A_Slice_Puncturing_Scheme_of_Energy_Storage_Batteries_for_Grid_Frequency_Regulation.pdf)]
 
@@ -51,6 +61,8 @@ author_profile: true
 - Yifan Jiang, Qingqing Wu, **Hongxun Hui**, Wen Chen and Derrick Wing Kwan Ng, "[Low-Altitude UAV Tracking via Sensing-Assisted Predictive Beamforming](https://ieeexplore.ieee.org/abstract/document/11550407)," *IEEE Transactions on Wireless Communications*, vol. 25, pp. 17975-17988, Jun. 2026. [[PDF](https://huihongxun.github.io/files/2026_Low-Altitude_UAV_Tracking_via_Sensing-Assisted_Predictive_Beamforming.pdf)]
 
 - Tao Qian, Jinyu Yue, Chongyu Wang, Jiarong Li, Qinran Hu and **Hongxun Hui**, "[Urban energy and three-dimensional mobility integration for eVTOL scale-up](https://www.sciencedirect.com/science/article/pii/S0306261926008809)," *Applied Energy*, Vol. 421, p. 128226, Oct. 2026. [[PDF](https://huihongxun.github.io/files/2026_Urban_energy_and_three-dimensional_mobility_integration_for_eVTOL_scale-up.pdf)]
+
+- Yutong Xiang, Lunshu Chen, Qimuge Wuyun, Sen Yu, Yang Geng, Hao Tang, Zhe Wang, Rui Tang, **Hongxun Hui**, Yuming Zhao, Bo Shen, Borong Lin and Wei Feng, "[A Comprehensive Review of Building-to-Grid Interaction](https://www.the-innovation.org/article/doi/10.59717/ipj.energy-use.2025.100043)," *Energy Use*, vol. 2, no. 1, pp. 100043, Mar. 2026. [[PDF](https://huihongxun.github.io/files/2026_A+Comprehensive+Review+of+Building-to-Grid+Interaction.pdf)]
 
 
 <p align="right"><font size="5">2025</font></p> 
