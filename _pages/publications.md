@@ -38,7 +38,13 @@ author_profile: true
 
 - Han Wang, Zhe Hu, Yunpeng Xiao, Quan Zhou, **Hongxun Hui**, Zheng Yan, Zhiguo Huang, Jize Han and Xu Jin, "[A two-stage restoration model for power distribution systems with integrated satellite-terrestrial communication networks](https://doi.org/10.1016/j.apenergy.2026.128967)," *Applied Energy*, vol. 427, p. 128967, Jan. 2027. [[PDF](https://huihongxun.github.io/files/2027_A_Two-Stage_Restoration_Model_for_Power_Distribution_Systems_with_Integrated_Satellite-Terrestrial_Communication_Networks.pdf)]
 
+- Tao Qian, Yangyimiao Sun, **Hongxun Hui**, Qinran Hu and Zaijun Wu, "[Electric Vertical Takeoff and Landing Aircraft Charging Demand Modeling and Integration into Power Distribution Networks: A Comprehensive Review](https://ieeexplore.ieee.org/abstract/document/11683512)," *IEEE Transactions on Smart Grid*, Early Access. [[PDF](https://huihongxun.github.io/files/2026_Electric_Vertical_Takeoff_and_Landing_Aircraft_Charging_Demand_Modeling.pdf)]
+
+- Lunshu Chen, **Hongxun Hui**\* and Wei Feng, "[Power System Frequency Regulation via Multiple Energy Storage Resources Considering Building Climate Zone Diversity](https://ieeexplore.ieee.org/abstract/document/11627947)," *IEEE Transactions on Consumer Electronics*, Early Access. [[PDF](https://huihongxun.github.io/files/2026_Power_System_Frequency_Regulation_via_Multiple_Energy_Storage_Resources_Considering_Building_Climate_Zone_Diversity.pdf)]
+
   <p align="right"><font size="5">2026</font></p> 
+
+- Kang Wang and **Hongxun Hui**\*, "[A smart meter data market framework embedded in electricity market operations](https://www.sciencedirect.com/science/article/pii/S0306261926013826)," *Applied Energy*, vol. 426, p. 128726, Dec. 2026. [[PDF](https://huihongxun.github.io/files/2026_A_Smart_Meter_Data_Market_Framework_Embedded_in_Electricity_Market_Operations.pdf)]
 
 - Lunshu Chen, **Hongxun Hui**\*, Yonghua Song, Ye Chen and Wei Feng, "[Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems](https://ieeexplore.ieee.org/document/11397790),” *IEEE Transactions on Power Systems*, vol. 41, no. 4, pp. 2441-2453, Jul. 2026. [[PDF](https://huihongxun.github.io/files/2026_Distributed_Consensus-Based_MPC_of_IACs.pdf)]
 
@@ -63,6 +69,8 @@ author_profile: true
 - Tao Qian, Jinyu Yue, Chongyu Wang, Jiarong Li, Qinran Hu and **Hongxun Hui**, "[Urban energy and three-dimensional mobility integration for eVTOL scale-up](https://www.sciencedirect.com/science/article/pii/S0306261926008809)," *Applied Energy*, Vol. 421, p. 128226, Oct. 2026. [[PDF](https://huihongxun.github.io/files/2026_Urban_energy_and_three-dimensional_mobility_integration_for_eVTOL_scale-up.pdf)]
 
 - Yutong Xiang, Lunshu Chen, Qimuge Wuyun, Sen Yu, Yang Geng, Hao Tang, Zhe Wang, Rui Tang, **Hongxun Hui**, Yuming Zhao, Bo Shen, Borong Lin and Wei Feng, "[A Comprehensive Review of Building-to-Grid Interaction](https://www.the-innovation.org/article/doi/10.59717/ipj.energy-use.2025.100043)," *Energy Use*, vol. 2, no. 1, pp. 100043, Mar. 2026. [[PDF](https://huihongxun.github.io/files/2026_A+Comprehensive+Review+of+Building-to-Grid+Interaction.pdf)]
+
+- Ankang Deng, Liya Ma, **Hongxun Hui**\*, Ye Chen and Qingning Lu, "[An Interactive AI-Copilot Platform for Power System Resilience Enhancement](https://ieeexplore.ieee.org/abstract/document/11692114)," *2026 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia)*, Kunming, China, 2026, pp. 1954-1959. [[PDF](https://huihongxun.github.io/files/2026_An_Interactive_AI-Copilot_Platform_for_Power_System_Resilience_Enhancement.pdf)]
 
 
 <p align="right"><font size="5">2025</font></p> 
