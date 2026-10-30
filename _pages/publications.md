@@ -46,6 +46,10 @@ author_profile: true
 
 - Kang Wang and **Hongxun Hui**\*, "[A smart meter data market framework embedded in electricity market operations](https://www.sciencedirect.com/science/article/pii/S0306261926013826)," *Applied Energy*, vol. 426, p. 128726, Dec. 2026. [[PDF](https://huihongxun.github.io/files/2026_A_Smart_Meter_Data_Market_Framework_Embedded_in_Electricity_Market_Operations.pdf)]
 
+- Jiabao Li, **Hongxun Hui**\* and Yonghua Song, "[Fostering Energy Sustainability Through Trust: Privacy-Aware Smart Metering Mechanism for Demand-Side Resources in Power Systems](https://ieeexplore.ieee.org/document/11755795)," *IEEE Energy Sustainability Magazine*, vol. 2, no. 4, pp. 59-71, Nov. 2026. [[PDF](https://huihongxun.github.io/files/2026_Fostering_Energy_Sustainability_Through_Trust.pdf)]
+
+- Yitang Li, **Hongxun Hui**\*, Ling Zhan and Qimeng Zhang, "[Railway-Integrated Planning of Electric Vertical Takeoff and Landing Aircraft (eVTOL) Vertiports](https://spj.science.org/doi/full/10.34133/research.1453)," *Research*, vol. 9, p. 1453, Oct. 2026. [[PDF](https://huihongxun.github.io/files/2026_Railway-Integrated_Planning_of_eVTOL_Vertiports.pdf)]
+
 - Lunshu Chen, **Hongxun Hui**\*, Yonghua Song, Ye Chen and Wei Feng, "[Distributed Consensus-based Model Predictive Control of Inverter Air Conditioners for Voltage Regulation in Distribution Systems](https://ieeexplore.ieee.org/document/11397790),” *IEEE Transactions on Power Systems*, vol. 41, no. 4, pp. 2441-2453, Jul. 2026. [[PDF](https://huihongxun.github.io/files/2026_Distributed_Consensus-Based_MPC_of_IACs.pdf)]
 
 - Jiabao Li, **Hongxun Hui**\*, Yonghua Song, Ye Chen, Tao Chen and Pierluigi Siano, "[Value-Based Data Governance and Security Protection of Virtual Power Plants Aggregated by Demand-Side Flexible Loads](https://ieeexplore.ieee.org/abstract/document/11293064),” *Journal of Modern Power Systems and Clean Energy*, vol. 14, no. 4, pp. 1172-1184, Jul. 2026. [[PDF](https://huihongxun.github.io/files/2026_Value-Based_Data_Governance_and_Security_Protection_for_VPPs.pdf)]
