@@ -24,6 +24,8 @@ author_profile: true
 
 
   <p align="right"><font size="5">Early Access</font></p>
+- Kang Wang, **Hongxun Hui**\*, Chengjin Ye and Yi Ding, "[Optimal Planning of Data Center Coupled with On-site Electricity–Heat–Cooling Conversion](https://ieeexplore.ieee.org/document/11780672)," *IEEE Transactions on Smart Grid*, Early Access. [[PDF](https://huihongxun.github.io/files/2026_Optimal_Planning_of_Data_Center_Coupled_with_On-site_ElectricityHeatCooling_Conversion.pdf)]
+
 - Zhenwei Zhang, **Hongxun Hui**\*, Houpeng Hu and Yonghua Song, "Hierarchical Energy Efficiency Optimization of Urban Building Clusters Under the "Microclimate–Energy Consumption" Vicious Cycle," *Proceedings of the CSEE*, Early Access. **张振威,惠红勋,胡厚鹏,宋永华.面向城市“微气候-能耗”恶性循环的建筑群梯级能效优化方法研究[J].中国电机工程学报,2026,xx(xx):1-12.** [[PDF](https://huihongxun.github.io/files/2026_面向城市“微气候-能耗”恶性循环的建筑群梯级能效优化方法研究_张振威.pdf)]
 
 - Lunshu Chen, Shaohua Yang, **Hongxun Hui**\*, Ye Chen and Wei Feng, "Differentiated Modeling and Cooperative Control of AC and DC Air Conditioner Loads for Stable Operation of AC/DC Hybrid Distribution Networks," *Electric Power Automation Equipment*, in press. **陈伦澍,杨少华,惠红勋\*,陈烨,冯威.面向交直流混联配电网稳定运行的交直流空调负荷差异化建模与协同控制[J].电力自动化设备,2026,xx(xx):xx-xx.** [[PDF](https://huihongxun.github.io/files/2026_面向交直流混联配电网稳定运行的交直流空调负荷差异化建模与协同控制.pdf)]
